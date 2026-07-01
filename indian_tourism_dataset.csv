@@ -1,0 +1,1001 @@
+id,state,destination,year,month,season,purpose_of_visit,visitor_type,number_of_visitors,avg_stay_days,avg_spend_inr,accommodation_type,transport_mode,rating_out_of_5
+1,Himachal Pradesh,Shimla,2021,April,Summer,Honeymoon,Domestic,35791,1.8,56802,Resort,Flight,1
+2,Goa,South Goa,2024,October,Spring,Business,Domestic,42640,7.3,56487,Hotel,Bike,2
+3,Sikkim,Lachung,2021,December,Summer,Leisure,Domestic,14160,9.6,45618,Hostel,Bus,1
+4,Madhya Pradesh,Khajuraho,2025,October,Monsoon,Family,Domestic,35192,2.1,51115,Homestay,Flight,1
+5,West Bengal,Siliguri,2021,October,Monsoon,Wellness,Domestic,14985,8.0,11958,Resort,Flight,2
+6,Madhya Pradesh,Indore,2022,March,Monsoon,Heritage,Domestic,17546,7.3,10858,Homestay,Bus,5
+7,Assam,Tezpur,2021,August,Summer,Business,Foreign,41993,7.2,30285,Hostel,Bus,3
+8,Maharashtra,Mumbai,2024,May,Autumn,Family,Foreign,37220,8.9,42745,Hotel,Train,2
+9,Madhya Pradesh,Gwalior,2024,May,Summer,Heritage,Domestic,35372,3.4,57655,Resort,Train,5
+10,Gujarat,Rann of Kutch,2021,August,Spring,Pilgrimage,Foreign,10066,6.6,56833,Hotel,Flight,5
+11,Madhya Pradesh,Pachmarhi,2023,September,Autumn,Wellness,Foreign,802,7.1,16514,Homestay,Bike,5
+12,Punjab,Amritsar,2025,March,Autumn,Honeymoon,Foreign,47214,3.4,67112,Hostel,Flight,2
+13,Himachal Pradesh,Dalhousie,2025,October,Spring,Honeymoon,Domestic,10637,5.9,71014,Resort,Train,1
+14,Punjab,Patiala,2024,June,Winter,Leisure,Domestic,15835,8.9,11822,Camp,Bus,1
+15,Goa,Anjuna,2025,November,Summer,Pilgrimage,Domestic,34631,8.9,56961,Hostel,Bike,2
+16,Karnataka,Gokarna,2021,November,Autumn,Honeymoon,Domestic,33969,5.1,33993,Houseboat,Bus,2
+17,Punjab,Amritsar,2021,April,Spring,Wellness,Domestic,46439,6.7,31507,Guesthouse,Train,1
+18,Punjab,Amritsar,2024,May,Summer,Backpacking,Domestic,8721,7.5,63453,Houseboat,Car,2
+19,Jammu and Kashmir,Gulmarg,2021,November,Winter,Adventure,Domestic,30656,8.8,8600,Hostel,Bus,1
+20,Madhya Pradesh,Gwalior,2022,April,Winter,Family,Domestic,9236,4.8,38009,Resort,Train,4
+21,Goa,Calangute,2024,January,Winter,Backpacking,Foreign,6162,9.3,32482,Houseboat,Bike,2
+22,Telangana,Ramoji Film City,2024,January,Autumn,Business,Domestic,25636,3.4,61138,Resort,Car,3
+23,Assam,Tezpur,2021,April,Summer,Heritage,Foreign,38007,7.6,9489,Homestay,Train,3
+24,Kerala,Thekkady,2021,September,Spring,Heritage,Foreign,5300,8.7,10481,Resort,Flight,5
+25,Maharashtra,Mahabaleshwar,2023,April,Spring,Adventure,Domestic,5422,4.8,70022,Guesthouse,Bike,3
+26,Karnataka,Gokarna,2024,May,Summer,Family,Domestic,19710,5.1,11008,Hostel,Train,1
+27,Bihar,Vaishali,2023,September,Winter,Adventure,Domestic,22922,8.9,33518,Resort,Bike,3
+28,Tamil Nadu,Madurai,2023,October,Monsoon,Backpacking,Domestic,36396,3.7,15077,Camp,Bike,2
+29,Himachal Pradesh,Shimla,2024,May,Summer,Backpacking,Domestic,22521,2.8,36100,Homestay,Bike,5
+30,Uttar Pradesh,Agra,2024,May,Autumn,Adventure,Domestic,8623,6.7,35835,Hotel,Flight,2
+31,Assam,Tezpur,2023,January,Spring,Wildlife,Foreign,45336,9.1,73011,Hotel,Flight,1
+32,Sikkim,Namchi,2021,March,Autumn,Pilgrimage,Domestic,2664,9.1,29035,Hotel,Bus,2
+33,Gujarat,Gir,2023,December,Spring,Wildlife,Foreign,11653,8.9,4748,Resort,Train,2
+34,Jammu and Kashmir,Leh,2024,March,Monsoon,Business,Domestic,2587,8.7,30654,Camp,Flight,2
+35,Gujarat,Dwarka,2025,January,Summer,Business,Domestic,18308,8.8,38085,Houseboat,Train,3
+36,Madhya Pradesh,Gwalior,2023,January,Monsoon,Backpacking,Domestic,17447,1.3,58459,Hotel,Bus,3
+37,Jammu and Kashmir,Jammu,2022,July,Winter,Backpacking,Domestic,46500,4.9,69646,Guesthouse,Train,5
+38,Gujarat,Somnath,2024,October,Monsoon,Adventure,Domestic,19731,5.6,55028,Homestay,Flight,3
+39,West Bengal,Sundarbans,2025,July,Summer,Pilgrimage,Domestic,11455,6.5,40946,Houseboat,Car,4
+40,Rajasthan,Jodhpur,2025,July,Summer,Honeymoon,Domestic,21168,5.2,59454,Camp,Bike,2
+41,Telangana,Medak,2022,May,Winter,Pilgrimage,Domestic,49276,3.1,42187,Guesthouse,Bike,2
+42,Uttarakhand,Rishikesh,2024,August,Summer,Leisure,Domestic,41322,6.2,51828,Guesthouse,Flight,4
+43,Maharashtra,Pune,2022,July,Winter,Leisure,Foreign,45657,5.7,8082,Resort,Train,5
+44,Himachal Pradesh,Kasol,2025,November,Autumn,Pilgrimage,Domestic,49546,9.0,67662,Guesthouse,Bike,4
+45,Andhra Pradesh,Tirupati,2022,May,Autumn,Heritage,Foreign,18223,7.9,69827,Camp,Train,4
+46,Uttar Pradesh,Mathura,2024,April,Monsoon,Adventure,Domestic,35449,1.7,21269,Homestay,Bus,2
+47,Uttarakhand,Jim Corbett,2025,July,Winter,Business,Domestic,27298,1.6,56569,Hostel,Bus,4
+48,Rajasthan,Pushkar,2022,January,Autumn,Wildlife,Domestic,27510,5.8,73082,Homestay,Bus,5
+49,Telangana,Warangal,2022,August,Autumn,Honeymoon,Domestic,44558,8.2,23132,Hotel,Car,4
+50,Bihar,Vaishali,2021,October,Autumn,Leisure,Domestic,28139,2.2,62015,Guesthouse,Flight,2
+51,Uttar Pradesh,Mathura,2021,August,Summer,Family,Domestic,24896,3.5,56755,Homestay,Bus,3
+52,Telangana,Hyderabad,2022,June,Winter,Backpacking,Domestic,42763,1.4,5567,Resort,Flight,2
+53,Rajasthan,Pushkar,2022,March,Summer,Pilgrimage,Domestic,14334,5.2,35086,Hostel,Flight,3
+54,Bihar,Vaishali,2022,May,Summer,Adventure,Domestic,20494,6.2,50692,Hotel,Bike,4
+55,Goa,Anjuna,2025,December,Winter,Business,Foreign,39398,8.2,6883,Camp,Bus,3
+56,Jammu and Kashmir,Leh,2023,September,Winter,Family,Domestic,27578,8.4,15333,Houseboat,Bus,4
+57,Andhra Pradesh,Lepakshi,2024,March,Autumn,Pilgrimage,Foreign,17750,6.5,72039,Houseboat,Bike,4
+58,Jammu and Kashmir,Leh,2024,June,Monsoon,Wellness,Foreign,5729,3.5,60587,Camp,Train,2
+59,Sikkim,Namchi,2023,January,Monsoon,Wildlife,Domestic,13951,4.2,35362,Hostel,Bus,3
+60,Bihar,Gaya,2024,January,Spring,Honeymoon,Domestic,47240,4.7,74268,Guesthouse,Train,2
+61,Telangana,Ramoji Film City,2025,May,Winter,Leisure,Domestic,20117,7.0,49868,Resort,Car,4
+62,Odisha,Konark,2021,June,Spring,Wildlife,Domestic,16525,3.1,26742,Homestay,Car,3
+63,Assam,Tezpur,2023,April,Summer,Pilgrimage,Domestic,38689,9.8,70265,Houseboat,Car,5
+64,Himachal Pradesh,Manali,2025,June,Summer,Honeymoon,Domestic,35055,2.1,7465,Resort,Bus,1
+65,West Bengal,Siliguri,2021,February,Autumn,Pilgrimage,Domestic,30812,5.3,46157,Camp,Flight,2
+66,Uttar Pradesh,Mathura,2023,July,Winter,Adventure,Domestic,45037,1.5,21055,Hostel,Flight,5
+67,Goa,South Goa,2024,July,Spring,Adventure,Domestic,14840,8.0,51356,Guesthouse,Bike,4
+68,West Bengal,Sundarbans,2023,October,Monsoon,Wildlife,Domestic,48552,1.9,28735,Guesthouse,Flight,2
+69,Goa,South Goa,2021,September,Summer,Business,Domestic,29574,7.2,63092,Hotel,Train,3
+70,Maharashtra,Lonavala,2021,February,Autumn,Honeymoon,Foreign,41013,6.3,27428,Houseboat,Train,4
+71,Assam,Kaziranga,2021,March,Monsoon,Pilgrimage,Domestic,20209,6.4,39328,Hotel,Flight,4
+72,Andhra Pradesh,Lepakshi,2025,May,Autumn,Honeymoon,Domestic,5321,6.4,58126,Guesthouse,Bike,3
+73,Uttar Pradesh,Agra,2021,November,Summer,Adventure,Domestic,1409,10.0,36825,Camp,Bike,5
+74,Tamil Nadu,Madurai,2024,May,Autumn,Backpacking,Domestic,32275,9.7,63105,Resort,Bike,3
+75,Punjab,Ludhiana,2024,June,Summer,Adventure,Domestic,26294,8.3,73602,Hostel,Car,1
+76,Goa,Panaji,2024,February,Monsoon,Honeymoon,Foreign,125,6.9,72618,Camp,Car,4
+77,Kerala,Alleppey,2022,October,Monsoon,Backpacking,Domestic,49856,1.5,36503,Camp,Car,5
+78,West Bengal,Digha,2025,January,Winter,Heritage,Domestic,46566,2.4,73699,Houseboat,Bike,1
+79,Jammu and Kashmir,Srinagar,2024,August,Winter,Business,Domestic,47013,3.6,37338,Hotel,Train,4
+80,Telangana,Warangal,2023,March,Spring,Heritage,Foreign,33358,7.7,19392,Hostel,Train,1
+81,Jammu and Kashmir,Pahalgam,2024,January,Monsoon,Backpacking,Foreign,38055,10.0,65678,Homestay,Bus,2
+82,Assam,Sivasagar,2024,September,Monsoon,Family,Domestic,21138,8.8,32800,Camp,Bike,5
+83,Maharashtra,Mahabaleshwar,2021,December,Monsoon,Leisure,Domestic,43545,8.1,21436,Hostel,Car,4
+84,Uttarakhand,Auli,2022,February,Monsoon,Wellness,Domestic,29995,1.1,20394,Camp,Car,4
+85,Goa,Calangute,2023,October,Monsoon,Honeymoon,Domestic,21582,8.7,71442,Houseboat,Car,4
+86,Telangana,Bhongir,2024,February,Spring,Leisure,Foreign,48990,1.8,14403,Resort,Bus,1
+87,Tamil Nadu,Rameswaram,2024,January,Winter,Honeymoon,Domestic,24615,4.9,33507,Homestay,Flight,5
+88,Sikkim,Ravangla,2022,March,Summer,Pilgrimage,Foreign,40663,7.1,66730,Hotel,Bike,5
+89,Maharashtra,Mahabaleshwar,2021,May,Autumn,Honeymoon,Foreign,30540,9.1,73143,Houseboat,Flight,2
+90,Andhra Pradesh,Araku Valley,2021,November,Monsoon,Wellness,Domestic,19849,2.8,51922,Hostel,Bus,4
+91,Maharashtra,Mahabaleshwar,2021,October,Monsoon,Wellness,Domestic,43187,4.6,2561,Homestay,Bus,5
+92,Bihar,Gaya,2021,April,Monsoon,Heritage,Domestic,12510,6.6,19427,Guesthouse,Bus,1
+93,West Bengal,Digha,2022,June,Spring,Leisure,Domestic,19390,3.9,55960,Houseboat,Train,2
+94,Uttarakhand,Auli,2021,September,Spring,Family,Domestic,31628,9.7,40184,Homestay,Train,3
+95,Andhra Pradesh,Vizag,2023,November,Summer,Pilgrimage,Foreign,36574,4.3,53217,Houseboat,Car,1
+96,Assam,Guwahati,2024,November,Monsoon,Heritage,Domestic,41897,9.5,15701,Houseboat,Bus,2
+97,Rajasthan,Pushkar,2021,October,Monsoon,Backpacking,Domestic,30476,9.2,41108,Resort,Flight,4
+98,Uttarakhand,Rishikesh,2025,August,Monsoon,Leisure,Domestic,35278,2.2,60959,Hotel,Flight,3
+99,Jammu and Kashmir,Jammu,2024,November,Autumn,Pilgrimage,Domestic,18383,1.3,50066,Hotel,Car,2
+100,Andhra Pradesh,Tirupati,2022,November,Winter,Family,Foreign,42309,4.2,53684,Homestay,Bike,3
+101,Himachal Pradesh,Kasol,2025,November,Summer,Adventure,Foreign,3364,8.1,33425,Houseboat,Bike,2
+102,Karnataka,Bengaluru,2022,October,Summer,Backpacking,Domestic,9720,8.1,1871,Resort,Train,3
+103,Uttarakhand,Auli,2023,February,Summer,Honeymoon,Domestic,23527,8.1,32686,Houseboat,Flight,5
+104,Rajasthan,Udaipur,2025,March,Winter,Honeymoon,Domestic,48917,1.6,60256,Houseboat,Car,3
+105,Sikkim,Gangtok,2021,April,Spring,Heritage,Domestic,43231,5.7,61536,Guesthouse,Flight,1
+106,Telangana,Ramoji Film City,2022,August,Winter,Wildlife,Domestic,5344,3.9,20942,Houseboat,Car,1
+107,Uttar Pradesh,Ayodhya,2024,December,Spring,Wellness,Foreign,34820,3.7,67763,Homestay,Car,5
+108,Himachal Pradesh,Dalhousie,2024,December,Spring,Adventure,Domestic,15024,4.7,60941,Camp,Train,4
+109,Himachal Pradesh,Dharamshala,2021,November,Monsoon,Wildlife,Foreign,45061,9.3,10299,Homestay,Bus,1
+110,Goa,Calangute,2023,March,Monsoon,Adventure,Domestic,36854,6.1,17521,Guesthouse,Flight,4
+111,Jammu and Kashmir,Leh,2021,October,Monsoon,Leisure,Domestic,33303,2.9,64701,Homestay,Bus,2
+112,Gujarat,Gir,2025,May,Winter,Family,Foreign,36813,9.8,74472,Guesthouse,Train,1
+113,Uttar Pradesh,Agra,2024,December,Monsoon,Pilgrimage,Foreign,23054,1.1,20276,Camp,Bus,5
+114,Goa,South Goa,2023,December,Winter,Leisure,Domestic,29780,4.1,50003,Guesthouse,Train,3
+115,Sikkim,Namchi,2025,March,Winter,Adventure,Domestic,5396,3.4,57076,Resort,Bike,4
+116,Andhra Pradesh,Vijayawada,2023,September,Summer,Honeymoon,Domestic,18612,7.1,65283,Hotel,Bus,5
+117,Kerala,Alleppey,2023,January,Spring,Wildlife,Domestic,13893,7.9,34991,Hotel,Train,3
+118,Himachal Pradesh,Shimla,2024,March,Autumn,Heritage,Domestic,15130,5.5,47921,Resort,Car,1
+119,Kerala,Wayanad,2021,February,Autumn,Leisure,Domestic,37628,4.6,56247,Camp,Bus,3
+120,Madhya Pradesh,Khajuraho,2021,October,Summer,Family,Domestic,6987,3.2,53987,Hostel,Bus,5
+121,Madhya Pradesh,Indore,2023,June,Summer,Family,Domestic,41549,2.0,68340,Camp,Train,2
+122,Gujarat,Vadodara,2024,February,Summer,Pilgrimage,Domestic,39528,2.4,11376,Resort,Bus,2
+123,Andhra Pradesh,Kakinada,2024,November,Autumn,Wellness,Domestic,41155,3.8,59140,Guesthouse,Bike,1
+124,Andhra Pradesh,Lepakshi,2023,October,Monsoon,Honeymoon,Domestic,20392,5.2,6429,Hotel,Bus,1
+125,West Bengal,Kolkata,2025,October,Spring,Adventure,Domestic,36377,9.6,6876,Guesthouse,Car,4
+126,Karnataka,Coorg,2022,September,Autumn,Wellness,Domestic,22557,9.8,12553,Resort,Flight,5
+127,Kerala,Alleppey,2023,September,Autumn,Heritage,Domestic,24485,9.3,52279,Guesthouse,Bike,4
+128,Bihar,Patna,2021,June,Winter,Family,Domestic,18671,3.3,21209,Hotel,Bike,3
+129,Sikkim,Ravangla,2024,May,Monsoon,Pilgrimage,Domestic,46504,9.4,42077,Houseboat,Car,5
+130,Punjab,Chandigarh,2023,November,Winter,Backpacking,Domestic,1244,4.3,25127,Houseboat,Car,2
+131,Telangana,Warangal,2021,March,Summer,Business,Foreign,6678,5.6,72248,Hotel,Bus,5
+132,Punjab,Bathinda,2021,July,Spring,Pilgrimage,Domestic,45456,7.9,23197,Resort,Train,4
+133,Jammu and Kashmir,Pahalgam,2023,October,Autumn,Business,Domestic,15724,3.8,62974,Homestay,Car,2
+134,Sikkim,Yumthang,2021,July,Monsoon,Heritage,Domestic,10670,8.4,19640,Guesthouse,Bike,3
+135,Telangana,Nagarjunsagar,2024,December,Winter,Backpacking,Foreign,18731,1.8,22512,Camp,Bike,3
+136,Odisha,Bhubaneswar,2023,April,Winter,Wildlife,Foreign,1797,4.7,53464,Camp,Car,5
+137,Maharashtra,Mahabaleshwar,2021,April,Monsoon,Adventure,Foreign,46888,6.8,20642,Hotel,Bus,2
+138,West Bengal,Digha,2025,August,Autumn,Pilgrimage,Foreign,1295,3.3,21097,Guesthouse,Flight,5
+139,Odisha,Chilika Lake,2021,April,Monsoon,Adventure,Domestic,27563,6.8,61414,Homestay,Flight,1
+140,Telangana,Bhongir,2023,November,Winter,Backpacking,Domestic,9459,3.6,1705,Guesthouse,Bike,5
+141,Maharashtra,Aurangabad,2025,November,Summer,Wildlife,Domestic,23682,1.6,70451,Houseboat,Flight,5
+142,Odisha,Cuttack,2023,August,Autumn,Leisure,Foreign,16673,7.7,48305,Hotel,Car,1
+143,Maharashtra,Nashik,2024,December,Spring,Adventure,Domestic,23138,5.9,24449,Camp,Bus,4
+144,Tamil Nadu,Ooty,2025,January,Autumn,Adventure,Domestic,13122,9.0,42865,Homestay,Train,3
+145,Madhya Pradesh,Ujjain,2021,January,Monsoon,Heritage,Domestic,3182,8.8,45006,Camp,Train,3
+146,Gujarat,Somnath,2021,July,Autumn,Wildlife,Domestic,32655,4.3,69562,Homestay,Train,3
+147,Jammu and Kashmir,Srinagar,2024,March,Spring,Wildlife,Domestic,5297,4.0,40250,Guesthouse,Bus,3
+148,Bihar,Gaya,2024,December,Summer,Wildlife,Domestic,47682,8.8,47710,Hostel,Bus,5
+149,Uttar Pradesh,Prayagraj,2025,November,Winter,Leisure,Domestic,49195,7.1,5581,Houseboat,Car,2
+150,Andhra Pradesh,Vizag,2023,April,Winter,Pilgrimage,Domestic,37224,1.3,21611,Camp,Bus,4
+151,Gujarat,Somnath,2022,March,Spring,Adventure,Domestic,42619,3.5,16369,Guesthouse,Bus,1
+152,Telangana,Bhongir,2022,February,Spring,Wildlife,Domestic,14112,10.0,38931,Homestay,Bus,4
+153,Himachal Pradesh,Manali,2021,March,Autumn,Adventure,Foreign,44740,9.7,43389,Houseboat,Car,3
+154,Assam,Jorhat,2022,March,Monsoon,Honeymoon,Domestic,33391,3.0,27842,Houseboat,Train,2
+155,Telangana,Hyderabad,2023,October,Spring,Family,Foreign,36202,2.2,12800,Homestay,Car,1
+156,Madhya Pradesh,Gwalior,2024,July,Spring,Heritage,Foreign,4883,2.1,43053,Camp,Car,1
+157,Andhra Pradesh,Lepakshi,2025,March,Monsoon,Backpacking,Domestic,11975,7.9,18412,Camp,Bike,4
+158,Kerala,Munnar,2021,May,Summer,Backpacking,Domestic,46536,3.0,69512,Resort,Train,3
+159,Uttar Pradesh,Varanasi,2025,March,Monsoon,Backpacking,Domestic,6172,5.5,23603,Houseboat,Bus,5
+160,Uttarakhand,Haridwar,2025,June,Spring,Wellness,Domestic,1909,1.7,36188,Camp,Bike,2
+161,Jammu and Kashmir,Jammu,2024,November,Autumn,Leisure,Domestic,19848,5.3,54727,Guesthouse,Bus,3
+162,Goa,Margao,2023,August,Summer,Leisure,Domestic,22344,6.5,42470,Hostel,Car,3
+163,Madhya Pradesh,Bhopal,2021,September,Spring,Family,Domestic,8079,3.4,33995,Hotel,Bus,2
+164,Kerala,Kochi,2024,July,Spring,Wildlife,Foreign,37909,7.5,26381,Resort,Train,2
+165,Odisha,Chilika Lake,2025,August,Monsoon,Heritage,Foreign,33174,5.1,33052,Hotel,Flight,2
+166,Gujarat,Ahmedabad,2023,August,Monsoon,Leisure,Domestic,585,8.6,57982,Guesthouse,Car,2
+167,Gujarat,Somnath,2025,July,Winter,Family,Domestic,23808,6.0,11137,Hotel,Bike,4
+168,Andhra Pradesh,Kakinada,2023,November,Spring,Honeymoon,Domestic,6386,4.5,45944,Guesthouse,Flight,5
+169,Uttarakhand,Haridwar,2024,July,Spring,Wellness,Domestic,9030,7.4,63594,Guesthouse,Flight,5
+170,Uttarakhand,Auli,2023,June,Summer,Backpacking,Domestic,40452,7.7,40721,Guesthouse,Bus,5
+171,Odisha,Cuttack,2025,December,Autumn,Backpacking,Domestic,1140,4.3,15866,Guesthouse,Bus,4
+172,West Bengal,Siliguri,2025,August,Spring,Leisure,Domestic,47327,1.5,64473,Homestay,Bike,2
+173,Bihar,Rajgir,2022,January,Summer,Pilgrimage,Domestic,28953,3.8,21348,Guesthouse,Flight,4
+174,Jammu and Kashmir,Jammu,2025,December,Autumn,Wellness,Domestic,34042,2.9,44104,Houseboat,Flight,4
+175,Madhya Pradesh,Indore,2024,September,Autumn,Pilgrimage,Domestic,47296,7.1,36150,Homestay,Bike,5
+176,Karnataka,Mysuru,2024,May,Spring,Honeymoon,Domestic,46246,2.9,65594,Resort,Bus,3
+177,Gujarat,Gir,2021,February,Monsoon,Honeymoon,Domestic,25906,8.4,20698,Guesthouse,Bike,3
+178,West Bengal,Siliguri,2025,August,Monsoon,Adventure,Domestic,14073,2.8,72092,Houseboat,Bus,3
+179,Uttar Pradesh,Varanasi,2021,December,Spring,Adventure,Domestic,43948,9.1,31079,Guesthouse,Train,2
+180,Himachal Pradesh,Kasol,2024,February,Autumn,Family,Domestic,36117,9.8,22201,Houseboat,Train,4
+181,Telangana,Medak,2021,June,Monsoon,Business,Foreign,5912,6.9,31937,Homestay,Flight,5
+182,Tamil Nadu,Madurai,2021,July,Winter,Pilgrimage,Domestic,49136,9.7,39441,Camp,Car,1
+183,West Bengal,Sundarbans,2024,June,Winter,Wellness,Foreign,35655,5.7,19089,Homestay,Car,5
+184,Uttar Pradesh,Varanasi,2025,March,Monsoon,Adventure,Domestic,47144,2.7,45685,Houseboat,Car,3
+185,Karnataka,Mysuru,2023,July,Autumn,Wellness,Domestic,43910,1.9,19930,Guesthouse,Bus,4
+186,Maharashtra,Mumbai,2023,April,Autumn,Honeymoon,Foreign,19838,6.2,2998,Hostel,Bus,3
+187,Maharashtra,Mumbai,2023,May,Autumn,Adventure,Domestic,46158,7.9,16889,Resort,Car,3
+188,Bihar,Bodh Gaya,2025,August,Summer,Business,Domestic,39747,4.4,73489,Resort,Car,4
+189,Karnataka,Mysuru,2025,September,Winter,Wellness,Domestic,5168,9.3,16207,Hostel,Bike,1
+190,Odisha,Bhubaneswar,2024,March,Spring,Wellness,Foreign,29006,2.0,28422,Resort,Bus,5
+191,Goa,Anjuna,2021,August,Winter,Heritage,Domestic,37006,1.5,62104,Resort,Bike,3
+192,Madhya Pradesh,Indore,2024,October,Summer,Leisure,Domestic,45950,1.6,9397,Hotel,Flight,1
+193,Kerala,Kochi,2021,March,Summer,Wildlife,Domestic,25116,5.0,50979,Camp,Car,4
+194,Assam,Kaziranga,2023,March,Winter,Family,Domestic,47750,9.8,1955,Guesthouse,Car,1
+195,Andhra Pradesh,Lepakshi,2021,September,Autumn,Backpacking,Domestic,22735,2.4,26204,Hostel,Train,1
+196,Jammu and Kashmir,Jammu,2021,April,Summer,Leisure,Domestic,29307,6.4,7880,Hotel,Flight,2
+197,Madhya Pradesh,Pachmarhi,2025,April,Spring,Business,Domestic,19007,3.1,43299,Camp,Flight,5
+198,Punjab,Chandigarh,2025,November,Summer,Honeymoon,Domestic,18082,1.5,24455,Guesthouse,Train,4
+199,Telangana,Hyderabad,2022,September,Autumn,Family,Domestic,19703,4.4,72007,Homestay,Car,4
+200,Maharashtra,Lonavala,2023,January,Autumn,Pilgrimage,Foreign,36572,5.8,52410,Guesthouse,Car,2
+201,Karnataka,Coorg,2025,June,Autumn,Adventure,Domestic,12533,1.5,50936,Hotel,Bike,5
+202,Kerala,Munnar,2021,December,Spring,Business,Domestic,13739,8.8,45142,Houseboat,Bike,3
+203,Karnataka,Mysuru,2023,April,Autumn,Adventure,Domestic,26043,9.2,73862,Houseboat,Bike,3
+204,Madhya Pradesh,Pachmarhi,2022,May,Monsoon,Backpacking,Domestic,32639,5.2,63037,Homestay,Bus,3
+205,Gujarat,Dwarka,2022,October,Winter,Wildlife,Domestic,1112,3.3,56232,Camp,Train,3
+206,Karnataka,Coorg,2024,October,Autumn,Business,Domestic,42950,9.5,45745,Camp,Train,3
+207,Telangana,Ramoji Film City,2021,March,Monsoon,Pilgrimage,Domestic,35579,9.9,9198,Resort,Bike,5
+208,Goa,Margao,2023,July,Winter,Leisure,Domestic,9947,1.1,67787,Resort,Train,4
+209,Kerala,Thekkady,2023,November,Autumn,Wellness,Domestic,36202,4.7,3692,Hostel,Flight,5
+210,Assam,Majuli,2022,December,Spring,Leisure,Foreign,11798,2.0,14124,Houseboat,Car,5
+211,Maharashtra,Pune,2025,May,Spring,Wellness,Domestic,26061,1.7,54718,Camp,Bus,4
+212,Maharashtra,Nashik,2024,November,Monsoon,Business,Domestic,42641,7.8,13755,Camp,Flight,4
+213,Madhya Pradesh,Ujjain,2021,November,Winter,Heritage,Domestic,28486,6.8,44920,Hotel,Train,5
+214,Odisha,Puri,2025,December,Summer,Business,Domestic,4922,7.2,38249,Guesthouse,Car,5
+215,Kerala,Alleppey,2022,April,Winter,Family,Domestic,46758,8.4,11584,Guesthouse,Train,3
+216,Sikkim,Pelling,2023,November,Autumn,Wellness,Domestic,48529,2.3,11779,Guesthouse,Bus,5
+217,Kerala,Munnar,2023,February,Summer,Wildlife,Domestic,39083,4.6,44278,Homestay,Bike,1
+218,Andhra Pradesh,Vijayawada,2023,September,Monsoon,Business,Domestic,38445,6.9,12732,Hostel,Car,5
+219,Maharashtra,Nashik,2023,May,Winter,Adventure,Domestic,41593,2.4,52568,Resort,Car,3
+220,Himachal Pradesh,Shimla,2025,August,Monsoon,Leisure,Domestic,5771,2.7,60330,Homestay,Bus,5
+221,Odisha,Chilika Lake,2023,February,Winter,Adventure,Domestic,39243,8.1,51993,Homestay,Bike,1
+222,Jammu and Kashmir,Sonmarg,2023,April,Spring,Adventure,Domestic,25001,2.5,36747,Guesthouse,Bike,3
+223,Telangana,Warangal,2025,July,Summer,Adventure,Domestic,5091,4.3,33821,Homestay,Car,4
+224,Bihar,Bodh Gaya,2024,March,Winter,Heritage,Foreign,21822,8.6,51292,Homestay,Flight,3
+225,Punjab,Patiala,2023,May,Summer,Wellness,Foreign,13213,5.3,24783,Homestay,Bike,4
+226,West Bengal,Siliguri,2025,April,Spring,Heritage,Domestic,25801,4.3,27688,Homestay,Car,5
+227,Tamil Nadu,Rameswaram,2024,December,Winter,Backpacking,Domestic,19142,8.5,10564,Hostel,Train,4
+228,Uttarakhand,Jim Corbett,2024,May,Summer,Honeymoon,Domestic,24756,1.7,64314,Houseboat,Train,5
+229,Assam,Jorhat,2022,January,Spring,Wildlife,Domestic,35236,6.3,12638,Camp,Bus,1
+230,Gujarat,Rann of Kutch,2021,October,Winter,Wellness,Foreign,21781,9.7,57920,Houseboat,Car,1
+231,Himachal Pradesh,Dharamshala,2024,December,Spring,Business,Domestic,37748,3.0,50536,Guesthouse,Bike,4
+232,Sikkim,Ravangla,2022,June,Summer,Backpacking,Domestic,27311,9.3,12753,Hotel,Car,1
+233,Gujarat,Dwarka,2021,April,Autumn,Family,Domestic,6447,4.9,60803,Guesthouse,Car,3
+234,West Bengal,Kolkata,2022,June,Winter,Adventure,Domestic,10821,9.4,33470,Houseboat,Flight,5
+235,Assam,Kaziranga,2021,July,Spring,Family,Domestic,41321,2.7,58140,Hostel,Train,4
+236,Bihar,Bodh Gaya,2021,July,Spring,Heritage,Domestic,13536,3.5,9700,Hostel,Flight,5
+237,Assam,Kaziranga,2024,April,Monsoon,Family,Domestic,32128,5.7,42578,Hostel,Flight,5
+238,Bihar,Rajgir,2025,June,Winter,Wellness,Domestic,44194,7.4,40486,Homestay,Car,5
+239,Goa,Margao,2024,February,Monsoon,Pilgrimage,Domestic,24514,7.2,68454,Resort,Bus,4
+240,Bihar,Bodh Gaya,2022,July,Autumn,Wellness,Domestic,45494,9.3,24206,Resort,Car,5
+241,Telangana,Nagarjunsagar,2022,June,Summer,Pilgrimage,Domestic,23579,9.6,65018,Camp,Car,2
+242,Madhya Pradesh,Ujjain,2021,July,Autumn,Backpacking,Domestic,29138,5.4,12335,Houseboat,Car,5
+243,Maharashtra,Lonavala,2025,April,Monsoon,Leisure,Domestic,30021,6.1,66421,Guesthouse,Bus,5
+244,Himachal Pradesh,Spiti,2022,September,Monsoon,Adventure,Domestic,49646,1.4,59350,Camp,Bus,5
+245,Jammu and Kashmir,Srinagar,2022,January,Monsoon,Business,Domestic,5750,5.0,16886,Hostel,Bus,2
+246,Sikkim,Ravangla,2023,November,Spring,Family,Domestic,13591,8.3,9280,Hostel,Train,5
+247,Assam,Majuli,2022,March,Spring,Wellness,Domestic,17570,9.6,68925,Homestay,Bus,1
+248,Jammu and Kashmir,Srinagar,2024,December,Summer,Honeymoon,Domestic,46671,3.9,33947,Camp,Train,4
+249,Uttarakhand,Auli,2024,July,Autumn,Honeymoon,Domestic,6151,4.6,37967,Hostel,Flight,3
+250,Telangana,Nagarjunsagar,2024,December,Winter,Wellness,Domestic,45747,4.2,9800,Hotel,Car,5
+251,Karnataka,Hampi,2021,May,Autumn,Business,Domestic,37925,2.2,65114,Homestay,Bus,3
+252,Kerala,Munnar,2022,February,Winter,Heritage,Domestic,94,9.9,57572,Camp,Train,2
+253,West Bengal,Darjeeling,2024,November,Winter,Honeymoon,Domestic,43599,9.1,23195,Homestay,Bus,1
+254,West Bengal,Siliguri,2024,November,Autumn,Business,Domestic,31298,1.7,31147,Hotel,Flight,5
+255,Rajasthan,Jaipur,2023,July,Winter,Family,Domestic,15054,4.4,14925,Houseboat,Train,1
+256,Gujarat,Dwarka,2023,March,Autumn,Pilgrimage,Domestic,36965,1.1,23011,Houseboat,Train,4
+257,Karnataka,Gokarna,2025,October,Autumn,Pilgrimage,Foreign,5731,9.1,19851,Houseboat,Car,1
+258,Madhya Pradesh,Indore,2023,March,Monsoon,Wildlife,Domestic,16313,6.0,38845,Resort,Bus,1
+259,Karnataka,Chikmagalur,2024,April,Spring,Wellness,Domestic,3626,8.1,32870,Houseboat,Car,4
+260,Himachal Pradesh,Manali,2025,February,Spring,Heritage,Foreign,20790,2.2,56663,Guesthouse,Flight,3
+261,Tamil Nadu,Madurai,2023,October,Winter,Adventure,Domestic,2660,9.3,53663,Hotel,Flight,5
+262,Odisha,Chilika Lake,2025,February,Autumn,Wildlife,Domestic,10056,3.5,42120,Houseboat,Bike,1
+263,Karnataka,Mysuru,2022,July,Monsoon,Backpacking,Domestic,28721,7.6,32778,Guesthouse,Flight,1
+264,Goa,Calangute,2021,October,Autumn,Adventure,Domestic,48657,6.9,24522,Guesthouse,Flight,1
+265,Uttarakhand,Jim Corbett,2023,August,Summer,Leisure,Domestic,47286,3.3,50241,Homestay,Bike,2
+266,Himachal Pradesh,Shimla,2025,May,Autumn,Family,Domestic,37841,6.6,66531,Guesthouse,Flight,4
+267,Gujarat,Ahmedabad,2025,March,Spring,Heritage,Domestic,6793,9.0,16617,Homestay,Train,2
+268,Rajasthan,Jaipur,2024,January,Summer,Leisure,Domestic,9885,2.6,6135,Hostel,Bus,5
+269,Maharashtra,Lonavala,2022,December,Autumn,Business,Foreign,37506,4.4,67303,Homestay,Bus,1
+270,Maharashtra,Aurangabad,2021,February,Autumn,Leisure,Domestic,20411,3.9,73994,Hostel,Bus,4
+271,Gujarat,Rann of Kutch,2025,May,Spring,Honeymoon,Domestic,24185,6.3,66165,Houseboat,Bike,2
+272,Maharashtra,Pune,2024,January,Autumn,Leisure,Domestic,45496,8.9,45411,Resort,Bike,1
+273,West Bengal,Kolkata,2022,April,Spring,Business,Foreign,9380,7.4,13693,Hostel,Car,1
+274,Odisha,Chilika Lake,2025,December,Autumn,Family,Domestic,8799,6.7,53188,Hotel,Bike,1
+275,Sikkim,Gangtok,2024,April,Summer,Wildlife,Foreign,25802,7.3,44262,Homestay,Bus,3
+276,Uttar Pradesh,Varanasi,2024,March,Summer,Adventure,Domestic,6974,2.5,62586,Camp,Bike,3
+277,Himachal Pradesh,Spiti,2021,August,Summer,Family,Domestic,7908,1.8,41374,Homestay,Car,5
+278,Karnataka,Coorg,2021,December,Winter,Pilgrimage,Domestic,3258,7.1,35600,Resort,Bus,2
+279,Madhya Pradesh,Pachmarhi,2022,April,Spring,Backpacking,Domestic,9211,2.1,9583,Hotel,Car,2
+280,Karnataka,Hampi,2024,October,Winter,Family,Foreign,4964,1.2,9950,Guesthouse,Bus,2
+281,Uttarakhand,Rishikesh,2021,January,Winter,Family,Domestic,37660,4.9,53273,Hostel,Flight,4
+282,Madhya Pradesh,Gwalior,2025,June,Summer,Wildlife,Domestic,29279,9.0,6041,Resort,Train,5
+283,Bihar,Bodh Gaya,2025,July,Autumn,Honeymoon,Domestic,18385,4.4,56449,Guesthouse,Car,2
+284,Maharashtra,Nashik,2024,July,Winter,Backpacking,Domestic,31813,4.1,67349,Camp,Bus,3
+285,Uttar Pradesh,Varanasi,2023,October,Monsoon,Leisure,Foreign,18461,1.5,63324,Resort,Flight,5
+286,Sikkim,Pelling,2024,April,Winter,Pilgrimage,Domestic,48353,1.5,30258,Houseboat,Train,5
+287,Gujarat,Rann of Kutch,2025,October,Summer,Pilgrimage,Foreign,1898,7.3,47595,Homestay,Bus,5
+288,Uttarakhand,Auli,2025,September,Autumn,Business,Domestic,5965,1.5,30179,Homestay,Train,1
+289,Telangana,Hyderabad,2021,April,Spring,Family,Domestic,11680,9.3,43913,Camp,Train,1
+290,Uttarakhand,Auli,2021,September,Winter,Pilgrimage,Foreign,24533,7.3,53351,Camp,Bus,5
+291,Punjab,Ludhiana,2025,March,Summer,Family,Domestic,31979,6.8,24333,Houseboat,Car,5
+292,Gujarat,Rann of Kutch,2021,July,Summer,Wellness,Domestic,47814,1.0,52827,Homestay,Bus,5
+293,Tamil Nadu,Mahabalipuram,2023,April,Spring,Family,Domestic,32567,2.3,11698,Houseboat,Bike,2
+294,Punjab,Chandigarh,2021,August,Monsoon,Adventure,Domestic,45477,1.6,35140,Hotel,Bus,1
+295,Kerala,Wayanad,2025,March,Autumn,Heritage,Foreign,23068,5.9,14794,Hostel,Car,4
+296,Maharashtra,Pune,2022,January,Winter,Heritage,Domestic,6913,1.7,23796,Homestay,Flight,4
+297,Goa,Anjuna,2024,October,Monsoon,Adventure,Domestic,28317,9.5,23126,Guesthouse,Car,5
+298,Tamil Nadu,Chennai,2023,April,Monsoon,Adventure,Domestic,47369,9.3,72295,Resort,Car,3
+299,West Bengal,Darjeeling,2021,July,Winter,Adventure,Foreign,10115,1.5,2000,Guesthouse,Bike,4
+300,West Bengal,Siliguri,2021,April,Autumn,Wellness,Domestic,41874,3.6,12239,Hotel,Flight,4
+301,West Bengal,Digha,2022,November,Autumn,Heritage,Domestic,25446,2.7,51496,Homestay,Flight,3
+302,Andhra Pradesh,Vizag,2023,August,Autumn,Honeymoon,Foreign,37028,1.6,14175,Homestay,Train,1
+303,Assam,Sivasagar,2022,September,Summer,Wellness,Foreign,27485,9.7,63736,Hotel,Car,5
+304,Telangana,Nagarjunsagar,2024,December,Autumn,Adventure,Domestic,33920,8.2,20826,Hotel,Bike,1
+305,Tamil Nadu,Ooty,2023,March,Summer,Business,Domestic,44819,4.9,20882,Hotel,Car,5
+306,Punjab,Jalandhar,2025,July,Winter,Adventure,Domestic,18151,5.7,3120,Guesthouse,Car,5
+307,Odisha,Chilika Lake,2025,March,Autumn,Adventure,Domestic,49751,9.7,14633,Resort,Bike,1
+308,Himachal Pradesh,Dharamshala,2023,July,Monsoon,Backpacking,Domestic,37538,6.5,6410,Homestay,Car,2
+309,Madhya Pradesh,Bhopal,2023,November,Spring,Wellness,Domestic,21774,7.2,7960,Houseboat,Car,4
+310,Gujarat,Ahmedabad,2023,May,Monsoon,Family,Foreign,44932,1.9,31378,Homestay,Car,2
+311,Andhra Pradesh,Araku Valley,2025,October,Autumn,Honeymoon,Domestic,13903,9.2,54868,Houseboat,Flight,4
+312,Gujarat,Ahmedabad,2022,February,Summer,Backpacking,Domestic,34409,8.9,5294,Homestay,Bike,2
+313,Karnataka,Bengaluru,2024,August,Winter,Business,Domestic,18005,4.3,62346,Hotel,Bus,5
+314,Himachal Pradesh,Dalhousie,2022,June,Summer,Leisure,Domestic,31152,6.3,47343,Hostel,Bike,3
+315,Uttar Pradesh,Prayagraj,2022,January,Monsoon,Adventure,Domestic,37553,8.0,29591,Hostel,Flight,2
+316,Karnataka,Coorg,2023,January,Spring,Wildlife,Domestic,8721,6.8,2609,Camp,Flight,2
+317,Bihar,Nalanda,2024,July,Autumn,Honeymoon,Domestic,14350,5.2,69741,Camp,Bus,5
+318,Sikkim,Gangtok,2024,November,Spring,Leisure,Domestic,38963,6.5,40621,Camp,Bus,1
+319,Goa,Panaji,2024,May,Monsoon,Honeymoon,Domestic,33951,7.9,8941,Homestay,Bus,5
+320,Punjab,Jalandhar,2025,November,Winter,Pilgrimage,Domestic,27481,4.6,6129,Hostel,Bus,5
+321,Karnataka,Coorg,2025,November,Spring,Business,Foreign,44081,4.2,40847,Camp,Car,2
+322,Tamil Nadu,Kodaikanal,2021,March,Autumn,Adventure,Domestic,36686,7.9,25495,Houseboat,Bus,3
+323,Maharashtra,Lonavala,2021,July,Monsoon,Business,Domestic,38425,3.6,16937,Camp,Bus,4
+324,Sikkim,Namchi,2021,August,Winter,Wellness,Domestic,44660,4.4,40606,Resort,Bike,4
+325,Uttarakhand,Haridwar,2023,July,Monsoon,Business,Domestic,46952,2.6,12092,Guesthouse,Car,4
+326,Tamil Nadu,Kodaikanal,2021,August,Winter,Leisure,Domestic,11099,6.2,22266,Homestay,Train,4
+327,Uttarakhand,Auli,2023,July,Autumn,Wildlife,Domestic,2522,5.8,50403,Hostel,Car,1
+328,Odisha,Bhubaneswar,2025,November,Winter,Leisure,Domestic,22617,3.8,14962,Houseboat,Train,4
+329,Sikkim,Lachung,2022,January,Winter,Pilgrimage,Domestic,34147,6.4,45780,Homestay,Bus,4
+330,Punjab,Patiala,2021,March,Summer,Family,Domestic,14751,7.5,18697,Camp,Car,2
+331,Sikkim,Namchi,2021,June,Winter,Pilgrimage,Domestic,42014,3.3,71588,Houseboat,Flight,5
+332,Bihar,Patna,2022,January,Winter,Adventure,Domestic,24970,2.1,34626,Houseboat,Flight,4
+333,Karnataka,Gokarna,2021,July,Monsoon,Leisure,Domestic,17743,6.6,19478,Houseboat,Flight,4
+334,Odisha,Gopalpur,2022,May,Winter,Wellness,Domestic,39961,2.8,35971,Hotel,Flight,5
+335,Gujarat,Vadodara,2022,March,Monsoon,Wildlife,Domestic,13661,7.2,64501,Hotel,Bike,3
+336,Rajasthan,Jaipur,2023,October,Winter,Adventure,Domestic,5953,8.0,11336,Houseboat,Car,1
+337,Maharashtra,Mahabaleshwar,2024,August,Monsoon,Honeymoon,Foreign,2635,8.7,48714,Hotel,Flight,3
+338,Himachal Pradesh,Shimla,2023,March,Winter,Leisure,Domestic,28736,9.6,36667,Houseboat,Train,1
+339,Punjab,Chandigarh,2021,July,Autumn,Adventure,Foreign,45263,8.7,56778,Hostel,Bus,2
+340,Uttarakhand,Jim Corbett,2024,February,Summer,Leisure,Domestic,37336,7.1,25258,Hostel,Bike,5
+341,Gujarat,Gir,2021,August,Summer,Leisure,Foreign,28930,1.4,35790,Hostel,Flight,3
+342,Odisha,Gopalpur,2022,April,Spring,Wellness,Domestic,45154,7.3,13983,Houseboat,Bus,4
+343,Telangana,Nagarjunsagar,2022,September,Summer,Wildlife,Domestic,10334,5.6,63010,Guesthouse,Flight,4
+344,Goa,Calangute,2021,June,Summer,Family,Domestic,36127,6.8,54358,Homestay,Flight,2
+345,Andhra Pradesh,Vijayawada,2024,February,Autumn,Wellness,Domestic,7829,9.8,3829,Camp,Car,1
+346,Jammu and Kashmir,Srinagar,2022,January,Spring,Backpacking,Domestic,40621,6.7,68128,Camp,Flight,5
+347,Andhra Pradesh,Araku Valley,2021,April,Winter,Family,Domestic,40666,6.4,49117,Camp,Car,4
+348,Himachal Pradesh,Dalhousie,2024,June,Winter,Business,Domestic,24553,7.3,7500,Homestay,Bus,2
+349,Uttarakhand,Jim Corbett,2021,May,Winter,Wildlife,Domestic,25798,2.9,26479,Guesthouse,Train,3
+350,Jammu and Kashmir,Srinagar,2021,August,Winter,Wellness,Foreign,8873,9.7,2068,Hostel,Bike,5
+351,Assam,Sivasagar,2024,September,Autumn,Wellness,Domestic,11430,7.6,18327,Camp,Train,1
+352,Bihar,Vaishali,2024,July,Spring,Family,Foreign,16318,3.5,46439,Hostel,Bike,3
+353,Uttarakhand,Haridwar,2022,December,Spring,Wildlife,Domestic,46023,5.9,42644,Houseboat,Bike,5
+354,Karnataka,Mysuru,2025,November,Monsoon,Wellness,Foreign,42654,9.8,24806,Homestay,Train,5
+355,Punjab,Jalandhar,2024,September,Monsoon,Adventure,Domestic,43772,7.4,71479,Hostel,Bike,3
+356,Rajasthan,Pushkar,2023,July,Winter,Adventure,Domestic,13150,3.4,22594,Resort,Flight,3
+357,Uttarakhand,Rishikesh,2024,September,Summer,Honeymoon,Foreign,6766,6.5,30900,Hotel,Bus,5
+358,Maharashtra,Aurangabad,2021,July,Winter,Honeymoon,Foreign,44951,3.8,73868,Hostel,Car,1
+359,Uttar Pradesh,Varanasi,2023,April,Autumn,Wellness,Domestic,35872,7.6,27251,Houseboat,Bus,2
+360,Andhra Pradesh,Tirupati,2022,March,Summer,Adventure,Domestic,2713,4.9,74454,Houseboat,Bike,3
+361,Tamil Nadu,Mahabalipuram,2025,June,Winter,Honeymoon,Domestic,21193,6.4,40972,Hostel,Train,4
+362,Assam,Majuli,2024,September,Monsoon,Adventure,Domestic,33154,2.4,72682,Resort,Train,5
+363,Goa,Panaji,2025,November,Summer,Business,Domestic,14366,9.6,71033,Homestay,Bus,4
+364,Rajasthan,Jaipur,2021,April,Autumn,Family,Foreign,16029,9.6,43565,Houseboat,Bike,4
+365,Madhya Pradesh,Indore,2022,January,Monsoon,Backpacking,Domestic,33390,5.0,7247,Guesthouse,Bus,3
+366,Punjab,Bathinda,2021,March,Winter,Adventure,Domestic,41136,1.6,29441,Camp,Bike,4
+367,Karnataka,Chikmagalur,2021,December,Winter,Wildlife,Domestic,47030,4.0,12971,Houseboat,Train,1
+368,Tamil Nadu,Kodaikanal,2023,October,Winter,Backpacking,Foreign,26764,4.5,54511,Camp,Train,4
+369,Rajasthan,Jaisalmer,2025,January,Spring,Adventure,Domestic,48936,6.3,11014,Houseboat,Bike,3
+370,Himachal Pradesh,Dharamshala,2022,February,Spring,Honeymoon,Domestic,43351,1.3,21989,Homestay,Car,5
+371,Uttarakhand,Jim Corbett,2025,May,Spring,Wildlife,Domestic,47847,6.8,2961,Houseboat,Train,5
+372,Uttarakhand,Rishikesh,2024,October,Winter,Leisure,Domestic,5628,3.7,46569,Guesthouse,Car,2
+373,Odisha,Bhubaneswar,2024,April,Summer,Pilgrimage,Domestic,11935,7.0,8628,Guesthouse,Bus,5
+374,Assam,Guwahati,2022,May,Winter,Honeymoon,Domestic,31978,9.6,48310,Hotel,Train,2
+375,Himachal Pradesh,Dharamshala,2025,April,Winter,Wellness,Domestic,40442,6.9,21474,Homestay,Car,5
+376,Gujarat,Dwarka,2023,January,Summer,Wildlife,Domestic,46724,7.7,58663,Homestay,Train,3
+377,Uttarakhand,Jim Corbett,2021,August,Autumn,Family,Domestic,31964,6.0,24538,Hostel,Bus,5
+378,Uttar Pradesh,Varanasi,2025,May,Summer,Backpacking,Domestic,1270,8.6,5588,Houseboat,Flight,5
+379,Madhya Pradesh,Ujjain,2024,September,Winter,Business,Foreign,35418,5.2,20981,Homestay,Bike,3
+380,Maharashtra,Aurangabad,2022,August,Summer,Honeymoon,Domestic,23896,5.5,32810,Guesthouse,Bike,5
+381,Odisha,Bhubaneswar,2021,March,Summer,Heritage,Domestic,9631,7.6,64873,Guesthouse,Bike,3
+382,Maharashtra,Mahabaleshwar,2024,May,Winter,Business,Domestic,13601,5.7,48849,Homestay,Train,4
+383,Andhra Pradesh,Vizag,2025,February,Monsoon,Leisure,Domestic,17973,8.5,36013,Houseboat,Bike,5
+384,Sikkim,Pelling,2024,June,Autumn,Wildlife,Domestic,24713,9.8,30715,Guesthouse,Flight,5
+385,Gujarat,Dwarka,2023,October,Autumn,Heritage,Foreign,28879,2.5,11604,Hotel,Bike,5
+386,Karnataka,Mysuru,2024,June,Summer,Pilgrimage,Domestic,27222,8.3,16355,Guesthouse,Flight,4
+387,Telangana,Warangal,2025,November,Summer,Wellness,Domestic,2877,2.2,22619,Camp,Car,2
+388,Kerala,Thekkady,2021,March,Winter,Pilgrimage,Domestic,26621,6.4,3940,Homestay,Train,3
+389,Karnataka,Hampi,2025,August,Autumn,Wellness,Foreign,39426,2.3,25339,Resort,Train,5
+390,Uttar Pradesh,Varanasi,2025,October,Autumn,Family,Domestic,25311,2.2,3670,Guesthouse,Flight,2
+391,Odisha,Gopalpur,2021,October,Summer,Wildlife,Domestic,40338,6.4,71155,Hotel,Train,5
+392,Goa,Calangute,2023,September,Spring,Pilgrimage,Foreign,44520,6.8,69925,Camp,Flight,4
+393,Kerala,Kovalam,2022,April,Autumn,Backpacking,Domestic,25034,4.2,14307,Camp,Car,4
+394,Uttar Pradesh,Mathura,2025,May,Winter,Business,Domestic,12437,1.0,2432,Guesthouse,Bike,5
+395,Himachal Pradesh,Spiti,2025,November,Autumn,Leisure,Domestic,7035,2.4,34744,Resort,Bus,3
+396,Jammu and Kashmir,Jammu,2022,May,Spring,Family,Domestic,27131,6.0,74580,Houseboat,Car,4
+397,Gujarat,Gir,2022,May,Autumn,Backpacking,Domestic,46285,4.6,19596,Homestay,Bike,1
+398,Andhra Pradesh,Lepakshi,2024,April,Winter,Pilgrimage,Domestic,36132,6.5,8322,Guesthouse,Car,2
+399,Rajasthan,Jaipur,2024,October,Autumn,Pilgrimage,Domestic,14583,4.3,6448,Hostel,Flight,4
+400,Bihar,Gaya,2022,December,Monsoon,Backpacking,Foreign,11536,6.8,59036,Guesthouse,Flight,1
+401,Odisha,Konark,2022,October,Winter,Business,Domestic,40367,2.5,6226,Guesthouse,Bike,3
+402,Rajasthan,Udaipur,2025,July,Monsoon,Adventure,Domestic,13177,5.7,10493,Homestay,Car,1
+403,West Bengal,Siliguri,2021,June,Spring,Backpacking,Domestic,12798,5.1,54447,Homestay,Bus,5
+404,Uttar Pradesh,Varanasi,2025,February,Spring,Wildlife,Domestic,22330,9.5,68777,Guesthouse,Flight,3
+405,Sikkim,Lachung,2021,October,Autumn,Heritage,Domestic,30121,7.1,5084,Hostel,Train,4
+406,Uttar Pradesh,Agra,2021,November,Summer,Wildlife,Foreign,27078,9.6,69199,Houseboat,Train,5
+407,Uttar Pradesh,Varanasi,2025,July,Winter,Honeymoon,Domestic,11747,5.3,47838,Houseboat,Bus,2
+408,Uttar Pradesh,Varanasi,2025,December,Autumn,Business,Domestic,17443,2.9,28077,Resort,Train,2
+409,Gujarat,Rann of Kutch,2025,February,Winter,Adventure,Domestic,35536,9.6,64714,Houseboat,Car,3
+410,Punjab,Patiala,2025,August,Monsoon,Wellness,Domestic,14605,7.8,18309,Resort,Bike,1
+411,Jammu and Kashmir,Sonmarg,2024,September,Winter,Backpacking,Foreign,11505,5.1,17276,Homestay,Car,5
+412,Punjab,Jalandhar,2025,November,Winter,Leisure,Domestic,21377,4.3,35539,Resort,Car,2
+413,Uttar Pradesh,Varanasi,2024,October,Autumn,Honeymoon,Domestic,27833,2.9,50299,Homestay,Bus,3
+414,Uttar Pradesh,Mathura,2024,March,Spring,Pilgrimage,Foreign,47289,3.4,32407,Guesthouse,Train,5
+415,Madhya Pradesh,Bhopal,2023,August,Summer,Pilgrimage,Domestic,32791,2.2,69265,Camp,Flight,5
+416,Telangana,Nagarjunsagar,2021,October,Spring,Honeymoon,Domestic,10754,1.5,34830,Hotel,Car,4
+417,Andhra Pradesh,Lepakshi,2023,June,Monsoon,Family,Domestic,16939,4.1,55470,Homestay,Bike,1
+418,Bihar,Bodh Gaya,2024,November,Spring,Wellness,Domestic,18702,4.2,68404,Houseboat,Bike,4
+419,Goa,Calangute,2025,August,Monsoon,Wellness,Foreign,42031,8.3,45722,Houseboat,Train,4
+420,Sikkim,Yumthang,2024,March,Winter,Adventure,Domestic,42845,3.6,36558,Homestay,Train,5
+421,Uttar Pradesh,Mathura,2021,September,Spring,Family,Domestic,1563,2.1,32253,Hostel,Car,3
+422,Karnataka,Mysuru,2021,February,Winter,Wildlife,Domestic,1777,7.9,70179,Hotel,Car,1
+423,Uttar Pradesh,Ayodhya,2025,November,Winter,Pilgrimage,Domestic,48388,3.6,18069,Hostel,Bus,2
+424,Tamil Nadu,Chennai,2022,June,Monsoon,Leisure,Domestic,35477,9.4,73398,Camp,Car,4
+425,Assam,Kaziranga,2024,August,Spring,Wellness,Domestic,41979,6.8,42087,Houseboat,Bike,3
+426,Assam,Kaziranga,2023,May,Autumn,Adventure,Domestic,19944,1.1,70092,Homestay,Car,2
+427,West Bengal,Digha,2025,December,Winter,Backpacking,Domestic,28259,8.2,31805,Hostel,Car,1
+428,Gujarat,Rann of Kutch,2023,July,Spring,Wildlife,Domestic,48357,6.8,51092,Hostel,Train,2
+429,Goa,Calangute,2022,October,Spring,Business,Domestic,48738,5.8,36735,Camp,Bus,4
+430,Goa,South Goa,2023,February,Monsoon,Pilgrimage,Domestic,17884,7.3,65986,Houseboat,Car,2
+431,Rajasthan,Udaipur,2021,January,Spring,Leisure,Domestic,8244,7.4,2575,Resort,Flight,2
+432,Uttarakhand,Rishikesh,2023,June,Summer,Heritage,Domestic,32712,10.0,62276,Hostel,Bus,1
+433,Goa,South Goa,2021,July,Monsoon,Leisure,Domestic,12645,9.1,34278,Hotel,Bike,4
+434,Himachal Pradesh,Dalhousie,2024,August,Autumn,Business,Domestic,48240,7.9,69806,Resort,Flight,2
+435,Madhya Pradesh,Gwalior,2023,March,Monsoon,Honeymoon,Domestic,36067,5.7,34702,Houseboat,Flight,4
+436,Karnataka,Coorg,2022,February,Summer,Leisure,Domestic,11018,8.1,17182,Resort,Car,4
+437,Rajasthan,Jaipur,2025,December,Autumn,Wellness,Domestic,5914,3.2,67025,Guesthouse,Train,1
+438,Punjab,Jalandhar,2025,June,Winter,Leisure,Domestic,7088,2.1,31997,Houseboat,Train,3
+439,Gujarat,Somnath,2025,December,Winter,Business,Domestic,16479,9.1,65109,Hostel,Bus,4
+440,West Bengal,Sundarbans,2021,October,Summer,Heritage,Domestic,48048,5.2,74182,Resort,Bike,2
+441,Odisha,Bhubaneswar,2025,May,Monsoon,Heritage,Domestic,41863,5.6,25818,Guesthouse,Bus,1
+442,Gujarat,Gir,2022,December,Monsoon,Business,Foreign,12493,5.7,66714,Hotel,Bike,5
+443,Bihar,Nalanda,2021,November,Autumn,Family,Domestic,43231,1.6,18509,Homestay,Flight,2
+444,Karnataka,Bengaluru,2025,February,Summer,Heritage,Domestic,25517,6.9,70420,Hotel,Bike,5
+445,Uttar Pradesh,Agra,2021,October,Summer,Family,Domestic,13729,6.9,11980,Houseboat,Flight,4
+446,Gujarat,Gir,2022,December,Monsoon,Wildlife,Domestic,2714,7.6,41333,Hotel,Bike,1
+447,Odisha,Puri,2025,September,Summer,Adventure,Domestic,43099,3.2,24948,Hostel,Train,5
+448,Jammu and Kashmir,Leh,2025,June,Spring,Adventure,Domestic,28038,8.9,23364,Houseboat,Car,2
+449,Madhya Pradesh,Ujjain,2024,September,Summer,Family,Foreign,20703,6.0,44053,Guesthouse,Car,3
+450,Jammu and Kashmir,Leh,2024,April,Spring,Family,Domestic,36110,9.3,34803,Guesthouse,Bike,3
+451,Andhra Pradesh,Vijayawada,2023,May,Winter,Leisure,Domestic,19831,1.1,30583,Guesthouse,Flight,2
+452,Rajasthan,Mount Abu,2022,September,Spring,Honeymoon,Foreign,10189,1.8,61841,Guesthouse,Bike,3
+453,Uttarakhand,Nainital,2023,April,Spring,Family,Foreign,6073,6.1,29999,Resort,Bus,1
+454,Telangana,Warangal,2023,February,Spring,Heritage,Domestic,37817,4.4,8829,Guesthouse,Bus,3
+455,Jammu and Kashmir,Sonmarg,2023,December,Summer,Adventure,Foreign,41592,8.0,51633,Houseboat,Bike,1
+456,Odisha,Puri,2025,October,Spring,Family,Domestic,14520,2.4,52995,Resort,Bus,4
+457,Sikkim,Namchi,2024,July,Summer,Adventure,Domestic,22081,1.7,7963,Homestay,Car,5
+458,Uttar Pradesh,Agra,2025,July,Spring,Wildlife,Domestic,31567,6.0,65444,Camp,Train,4
+459,Karnataka,Chikmagalur,2024,April,Spring,Wellness,Domestic,28234,3.9,13243,Resort,Flight,1
+460,Jammu and Kashmir,Pahalgam,2024,June,Summer,Family,Domestic,20026,2.5,47338,Homestay,Bike,5
+461,Bihar,Bodh Gaya,2022,April,Winter,Heritage,Domestic,47792,8.7,16228,Resort,Bus,1
+462,Bihar,Bodh Gaya,2022,June,Winter,Honeymoon,Domestic,30929,1.2,28895,Houseboat,Flight,5
+463,Karnataka,Chikmagalur,2025,September,Monsoon,Backpacking,Domestic,9313,7.3,3910,Hostel,Bike,4
+464,Odisha,Puri,2021,January,Summer,Honeymoon,Domestic,40548,3.4,62443,Homestay,Train,1
+465,Madhya Pradesh,Gwalior,2021,February,Monsoon,Honeymoon,Foreign,42609,4.5,51399,Hotel,Bus,5
+466,Punjab,Patiala,2022,February,Spring,Wellness,Domestic,30064,6.0,4316,Resort,Train,1
+467,Odisha,Konark,2025,July,Autumn,Family,Domestic,44897,4.2,41126,Houseboat,Train,2
+468,Uttar Pradesh,Agra,2024,January,Autumn,Honeymoon,Domestic,22449,9.1,19491,Guesthouse,Bus,1
+469,Odisha,Gopalpur,2025,July,Summer,Wellness,Domestic,20522,9.2,44660,Resort,Bike,4
+470,Uttarakhand,Haridwar,2024,September,Spring,Pilgrimage,Foreign,20300,7.2,70156,Houseboat,Train,2
+471,Uttarakhand,Jim Corbett,2021,June,Summer,Wellness,Domestic,47199,2.1,43128,Hotel,Bike,2
+472,Punjab,Patiala,2025,August,Monsoon,Wildlife,Domestic,12366,2.0,25715,Houseboat,Bus,1
+473,Bihar,Nalanda,2022,October,Spring,Wellness,Domestic,45097,1.2,11917,Resort,Bike,4
+474,Odisha,Cuttack,2024,March,Monsoon,Heritage,Domestic,9062,2.5,31158,Camp,Car,1
+475,Rajasthan,Jodhpur,2024,December,Summer,Wildlife,Domestic,4384,2.6,59077,Houseboat,Train,5
+476,Punjab,Patiala,2025,July,Autumn,Business,Domestic,24978,7.5,53162,Camp,Flight,5
+477,Bihar,Vaishali,2025,September,Winter,Backpacking,Domestic,2829,8.9,33707,Hotel,Car,5
+478,Madhya Pradesh,Gwalior,2024,July,Spring,Leisure,Domestic,28856,4.6,41418,Guesthouse,Flight,3
+479,Tamil Nadu,Madurai,2025,January,Spring,Honeymoon,Foreign,30431,8.5,60704,Houseboat,Bike,1
+480,Himachal Pradesh,Manali,2021,March,Spring,Wellness,Domestic,1682,2.6,27967,Hostel,Car,4
+481,Uttar Pradesh,Lucknow,2025,February,Winter,Pilgrimage,Domestic,5640,5.7,51843,Hotel,Car,5
+482,Tamil Nadu,Madurai,2022,January,Autumn,Backpacking,Foreign,37110,8.8,21172,Camp,Train,2
+483,Tamil Nadu,Rameswaram,2021,May,Autumn,Leisure,Domestic,11892,2.1,18745,Homestay,Car,2
+484,Bihar,Nalanda,2022,August,Autumn,Leisure,Domestic,426,6.5,66179,Camp,Car,2
+485,Sikkim,Ravangla,2025,July,Autumn,Heritage,Domestic,480,3.2,73241,Hostel,Flight,3
+486,Assam,Kaziranga,2021,March,Summer,Leisure,Domestic,2175,7.0,40617,Hotel,Bus,3
+487,Kerala,Munnar,2025,March,Summer,Wildlife,Domestic,45369,7.3,24754,Houseboat,Bus,4
+488,Gujarat,Ahmedabad,2023,June,Monsoon,Adventure,Foreign,49755,4.8,73651,Homestay,Car,1
+489,Telangana,Warangal,2025,June,Monsoon,Adventure,Domestic,45651,2.9,9126,Guesthouse,Car,1
+490,Odisha,Puri,2025,December,Spring,Heritage,Domestic,20791,3.3,47880,Homestay,Car,2
+491,Sikkim,Yumthang,2021,August,Autumn,Backpacking,Foreign,15301,7.4,26869,Camp,Train,1
+492,Rajasthan,Jaisalmer,2022,October,Summer,Adventure,Domestic,22964,6.0,29331,Hostel,Car,1
+493,West Bengal,Kalimpong,2024,May,Monsoon,Adventure,Domestic,451,2.0,45184,Guesthouse,Bike,3
+494,Sikkim,Namchi,2024,April,Summer,Leisure,Foreign,31448,9.2,6160,Homestay,Bus,2
+495,Uttarakhand,Jim Corbett,2023,June,Spring,Heritage,Foreign,3721,8.5,40735,Hostel,Car,5
+496,Assam,Jorhat,2021,October,Summer,Leisure,Domestic,23223,1.6,21069,Houseboat,Bus,3
+497,Punjab,Patiala,2021,October,Summer,Backpacking,Domestic,7707,8.8,41907,Guesthouse,Car,3
+498,Uttar Pradesh,Mathura,2021,April,Autumn,Adventure,Foreign,19883,2.9,41125,Homestay,Car,2
+499,Gujarat,Ahmedabad,2025,August,Winter,Business,Domestic,32821,2.4,46079,Guesthouse,Flight,4
+500,West Bengal,Kalimpong,2021,September,Winter,Pilgrimage,Domestic,2445,5.1,69964,Houseboat,Train,1
+501,West Bengal,Kolkata,2023,June,Winter,Wellness,Domestic,43237,7.7,4446,Hostel,Flight,5
+502,Karnataka,Coorg,2022,May,Summer,Business,Domestic,28958,7.0,37237,Homestay,Bike,2
+503,Uttar Pradesh,Agra,2023,September,Spring,Leisure,Domestic,23008,5.9,37027,Guesthouse,Flight,2
+504,Sikkim,Pelling,2021,May,Winter,Pilgrimage,Domestic,3374,2.2,63200,Guesthouse,Bus,1
+505,Madhya Pradesh,Khajuraho,2023,July,Autumn,Adventure,Foreign,41302,8.5,59936,Resort,Bike,5
+506,West Bengal,Kalimpong,2024,February,Spring,Business,Domestic,6139,8.3,62877,Camp,Car,1
+507,West Bengal,Siliguri,2022,April,Autumn,Heritage,Foreign,40481,3.3,49138,Resort,Train,4
+508,Punjab,Ludhiana,2023,January,Autumn,Heritage,Domestic,31418,5.2,23887,Hotel,Car,3
+509,Bihar,Vaishali,2024,February,Spring,Pilgrimage,Domestic,42612,1.6,41099,Hostel,Flight,5
+510,Madhya Pradesh,Ujjain,2025,October,Summer,Wildlife,Domestic,31662,4.5,46158,Resort,Bike,2
+511,Jammu and Kashmir,Sonmarg,2025,September,Monsoon,Wellness,Domestic,43933,1.7,65283,Houseboat,Train,1
+512,Bihar,Rajgir,2024,February,Spring,Family,Domestic,26644,1.6,15753,Camp,Car,5
+513,Punjab,Patiala,2022,April,Winter,Leisure,Foreign,49528,6.7,1524,Camp,Train,2
+514,Andhra Pradesh,Kakinada,2023,October,Autumn,Honeymoon,Domestic,44713,8.9,40786,Guesthouse,Car,5
+515,Jammu and Kashmir,Leh,2023,October,Winter,Family,Foreign,26539,8.6,40059,Hotel,Bike,1
+516,Assam,Guwahati,2024,June,Spring,Leisure,Foreign,15466,4.9,53177,Hotel,Bus,3
+517,Madhya Pradesh,Pachmarhi,2022,April,Spring,Wildlife,Domestic,12385,6.0,48723,Houseboat,Train,4
+518,West Bengal,Siliguri,2022,January,Summer,Pilgrimage,Domestic,31946,6.9,19296,Hotel,Flight,1
+519,Jammu and Kashmir,Sonmarg,2022,October,Autumn,Wellness,Domestic,36229,8.4,51925,Resort,Car,3
+520,Tamil Nadu,Madurai,2023,October,Winter,Wellness,Domestic,17695,4.7,73087,Hostel,Train,5
+521,Kerala,Munnar,2024,December,Autumn,Wellness,Domestic,45302,1.7,70497,Homestay,Flight,3
+522,Odisha,Puri,2025,February,Spring,Backpacking,Domestic,43548,9.6,11734,Resort,Car,5
+523,West Bengal,Sundarbans,2023,September,Monsoon,Leisure,Domestic,33647,9.2,44952,Camp,Flight,4
+524,West Bengal,Kalimpong,2022,December,Winter,Pilgrimage,Domestic,36993,3.3,63518,Guesthouse,Bus,5
+525,Sikkim,Gangtok,2022,January,Spring,Honeymoon,Domestic,33184,1.7,37918,Homestay,Car,3
+526,Bihar,Nalanda,2022,January,Monsoon,Honeymoon,Domestic,38832,7.7,60043,Houseboat,Flight,3
+527,Uttar Pradesh,Prayagraj,2022,March,Autumn,Business,Foreign,22518,9.9,20514,Camp,Bike,5
+528,Telangana,Ramoji Film City,2021,November,Summer,Wildlife,Domestic,48177,8.6,8620,Hostel,Train,3
+529,Kerala,Alleppey,2024,August,Autumn,Heritage,Domestic,49361,9.3,32126,Homestay,Car,4
+530,Telangana,Nagarjunsagar,2021,July,Spring,Pilgrimage,Foreign,29463,4.4,42877,Hotel,Bus,5
+531,Himachal Pradesh,Spiti,2024,October,Autumn,Family,Domestic,17553,8.2,34968,Houseboat,Bus,5
+532,Andhra Pradesh,Lepakshi,2021,April,Spring,Business,Domestic,11841,3.8,2886,Guesthouse,Bus,1
+533,Rajasthan,Jaisalmer,2021,February,Spring,Adventure,Domestic,47580,3.5,26807,Houseboat,Car,1
+534,Bihar,Patna,2025,November,Spring,Leisure,Foreign,41867,2.1,17225,Camp,Train,1
+535,Uttarakhand,Mussoorie,2023,February,Summer,Wellness,Domestic,30652,6.9,11424,Houseboat,Train,4
+536,Jammu and Kashmir,Leh,2023,March,Monsoon,Family,Domestic,4138,4.4,45101,Camp,Flight,1
+537,Uttar Pradesh,Varanasi,2024,August,Winter,Heritage,Domestic,42352,5.4,20357,Resort,Bike,5
+538,Karnataka,Chikmagalur,2021,December,Autumn,Adventure,Domestic,4664,6.1,34346,Homestay,Flight,4
+539,Telangana,Warangal,2024,November,Winter,Leisure,Domestic,21665,9.1,1985,Hostel,Bus,5
+540,Telangana,Ramoji Film City,2025,September,Winter,Wildlife,Domestic,45221,8.4,64685,Resort,Flight,1
+541,Assam,Majuli,2022,July,Monsoon,Family,Domestic,22336,1.7,61745,Hotel,Flight,3
+542,Tamil Nadu,Mahabalipuram,2021,November,Autumn,Leisure,Domestic,7047,6.7,48589,Resort,Bus,4
+543,Andhra Pradesh,Lepakshi,2025,January,Summer,Business,Domestic,38909,3.1,52456,Resort,Flight,1
+544,West Bengal,Digha,2025,January,Autumn,Backpacking,Domestic,47302,1.4,16991,Hotel,Bus,2
+545,Andhra Pradesh,Lepakshi,2024,December,Summer,Backpacking,Foreign,2466,7.6,65580,Guesthouse,Train,1
+546,Bihar,Patna,2021,January,Summer,Business,Foreign,6426,5.1,23872,Resort,Flight,5
+547,Himachal Pradesh,Shimla,2021,October,Spring,Heritage,Foreign,27982,4.0,54192,Resort,Flight,3
+548,Sikkim,Namchi,2024,April,Monsoon,Pilgrimage,Domestic,22037,1.6,37399,Camp,Flight,2
+549,Tamil Nadu,Rameswaram,2021,March,Spring,Family,Foreign,2717,2.2,50800,Hostel,Train,2
+550,Telangana,Hyderabad,2022,March,Winter,Leisure,Foreign,27327,7.2,63891,Hotel,Bike,2
+551,Uttarakhand,Jim Corbett,2025,August,Spring,Honeymoon,Foreign,40062,7.2,25093,Hostel,Train,4
+552,Goa,Margao,2023,July,Monsoon,Honeymoon,Domestic,7750,9.9,14041,Hotel,Bike,5
+553,Assam,Jorhat,2024,November,Autumn,Business,Domestic,12745,2.0,21058,Houseboat,Train,4
+554,Tamil Nadu,Ooty,2021,November,Winter,Leisure,Domestic,16524,4.0,60894,Homestay,Bus,1
+555,Kerala,Thekkady,2022,January,Summer,Pilgrimage,Domestic,15470,7.5,44225,Hostel,Bike,4
+556,Punjab,Chandigarh,2024,April,Monsoon,Adventure,Domestic,13154,4.4,30422,Hotel,Train,1
+557,Sikkim,Yumthang,2023,March,Autumn,Leisure,Domestic,25434,4.4,61496,Resort,Bike,2
+558,Uttar Pradesh,Varanasi,2024,January,Summer,Family,Domestic,8995,2.0,62518,Houseboat,Bike,4
+559,Tamil Nadu,Kodaikanal,2024,October,Monsoon,Business,Foreign,37937,9.7,31607,Resort,Bike,1
+560,Odisha,Chilika Lake,2023,August,Spring,Business,Domestic,47892,4.9,33829,Camp,Car,2
+561,Jammu and Kashmir,Jammu,2021,March,Spring,Business,Domestic,2948,1.4,63189,Guesthouse,Flight,5
+562,Jammu and Kashmir,Jammu,2022,December,Autumn,Wildlife,Domestic,15812,1.7,3128,Camp,Flight,4
+563,Uttarakhand,Nainital,2025,November,Summer,Honeymoon,Domestic,20027,2.5,61699,Hotel,Flight,5
+564,Rajasthan,Jaisalmer,2024,December,Summer,Heritage,Domestic,24325,6.6,1678,Hostel,Train,1
+565,Punjab,Bathinda,2025,July,Monsoon,Leisure,Domestic,40190,5.9,28651,Camp,Bus,1
+566,Punjab,Jalandhar,2023,November,Spring,Leisure,Domestic,24009,5.2,6857,Homestay,Flight,3
+567,Tamil Nadu,Rameswaram,2025,September,Winter,Backpacking,Domestic,21999,3.1,16384,Houseboat,Train,4
+568,Karnataka,Gokarna,2024,June,Monsoon,Business,Domestic,18212,1.5,50365,Homestay,Bike,3
+569,Telangana,Bhongir,2023,August,Winter,Backpacking,Domestic,34971,9.1,60741,Houseboat,Bike,5
+570,Goa,South Goa,2022,February,Winter,Heritage,Domestic,5092,2.0,37668,Hostel,Train,1
+571,Telangana,Warangal,2023,November,Spring,Business,Domestic,44771,5.9,18805,Hotel,Bus,4
+572,Jammu and Kashmir,Sonmarg,2024,April,Monsoon,Leisure,Foreign,15275,8.5,69607,Hotel,Flight,3
+573,Sikkim,Lachung,2022,October,Autumn,Family,Foreign,29230,5.1,18795,Houseboat,Bike,3
+574,Uttar Pradesh,Varanasi,2022,May,Monsoon,Heritage,Domestic,18687,5.1,23305,Camp,Flight,5
+575,Assam,Majuli,2022,December,Summer,Pilgrimage,Domestic,7712,1.4,43000,Houseboat,Train,5
+576,Andhra Pradesh,Araku Valley,2022,April,Summer,Family,Domestic,22584,2.3,60276,Guesthouse,Flight,5
+577,Assam,Majuli,2023,July,Winter,Adventure,Foreign,21035,2.4,73084,Hostel,Train,5
+578,West Bengal,Digha,2021,November,Spring,Honeymoon,Domestic,29023,4.0,16221,Resort,Bike,4
+579,Uttarakhand,Jim Corbett,2021,May,Winter,Backpacking,Domestic,14491,5.0,13621,Hotel,Car,3
+580,Bihar,Gaya,2025,September,Spring,Business,Domestic,5528,5.8,59887,Resort,Bus,1
+581,Madhya Pradesh,Bhopal,2023,October,Monsoon,Heritage,Foreign,43747,4.2,20891,Guesthouse,Bike,4
+582,Madhya Pradesh,Indore,2024,June,Monsoon,Leisure,Foreign,36817,1.8,59724,Homestay,Bus,4
+583,West Bengal,Darjeeling,2023,March,Autumn,Wildlife,Domestic,9463,2.9,63708,Camp,Bike,5
+584,Goa,Anjuna,2022,January,Winter,Wildlife,Domestic,36475,5.2,19447,Hostel,Bus,2
+585,Madhya Pradesh,Indore,2021,January,Autumn,Backpacking,Foreign,19967,5.4,62245,Camp,Bus,2
+586,Rajasthan,Udaipur,2024,November,Monsoon,Honeymoon,Domestic,43691,9.0,56177,Camp,Car,2
+587,Maharashtra,Mumbai,2024,August,Monsoon,Adventure,Domestic,38130,5.3,58656,Hotel,Bike,3
+588,Himachal Pradesh,Dharamshala,2023,January,Spring,Backpacking,Domestic,3884,2.3,61929,Camp,Bus,2
+589,Tamil Nadu,Chennai,2022,July,Monsoon,Honeymoon,Domestic,19164,5.8,11569,Houseboat,Bus,5
+590,Tamil Nadu,Chennai,2021,September,Summer,Wellness,Foreign,44940,8.2,37080,Homestay,Bus,3
+591,Assam,Jorhat,2022,January,Summer,Family,Domestic,31828,4.7,22868,Resort,Bike,1
+592,Uttarakhand,Auli,2024,September,Summer,Business,Foreign,46747,6.0,16437,Guesthouse,Bike,4
+593,Goa,North Goa,2022,August,Winter,Pilgrimage,Domestic,9160,8.4,70066,Homestay,Bus,3
+594,West Bengal,Kolkata,2024,March,Summer,Adventure,Domestic,20197,2.1,18567,Camp,Train,1
+595,Himachal Pradesh,Shimla,2021,July,Autumn,Leisure,Domestic,43289,5.6,9268,Hotel,Train,4
+596,Uttar Pradesh,Agra,2023,November,Monsoon,Adventure,Domestic,39489,2.8,27717,Hotel,Flight,2
+597,Rajasthan,Jaipur,2025,October,Monsoon,Pilgrimage,Domestic,32859,8.0,33196,Homestay,Bus,5
+598,Goa,North Goa,2021,September,Winter,Wellness,Foreign,11307,9.1,71902,Resort,Train,1
+599,Karnataka,Chikmagalur,2024,December,Monsoon,Heritage,Domestic,7083,2.6,48007,Guesthouse,Train,4
+600,Karnataka,Chikmagalur,2023,February,Autumn,Business,Domestic,7279,5.7,66487,Camp,Bus,3
+601,Assam,Tezpur,2022,June,Winter,Leisure,Domestic,29996,6.4,42395,Hostel,Flight,4
+602,Assam,Sivasagar,2021,April,Autumn,Honeymoon,Foreign,31223,9.5,49661,Camp,Flight,2
+603,Telangana,Medak,2021,August,Autumn,Adventure,Domestic,25924,4.6,14832,Guesthouse,Flight,2
+604,Gujarat,Rann of Kutch,2025,October,Summer,Family,Domestic,27883,7.5,38005,Camp,Car,5
+605,Uttar Pradesh,Prayagraj,2021,August,Monsoon,Wildlife,Foreign,31804,5.6,20816,Houseboat,Bike,4
+606,Himachal Pradesh,Dharamshala,2021,April,Autumn,Heritage,Domestic,48402,1.5,10442,Houseboat,Train,4
+607,Tamil Nadu,Madurai,2024,March,Monsoon,Wellness,Domestic,49868,1.7,69650,Homestay,Bike,4
+608,Karnataka,Coorg,2021,September,Autumn,Heritage,Domestic,35474,5.9,5641,Homestay,Bike,4
+609,Madhya Pradesh,Pachmarhi,2024,August,Autumn,Family,Domestic,36531,6.9,41220,Hostel,Flight,2
+610,Jammu and Kashmir,Gulmarg,2024,August,Autumn,Honeymoon,Domestic,32198,6.9,72199,Camp,Flight,5
+611,Telangana,Bhongir,2023,January,Spring,Pilgrimage,Domestic,24809,6.6,47737,Hostel,Bus,3
+612,Kerala,Munnar,2021,March,Winter,Wellness,Domestic,48681,6.3,46229,Camp,Bus,4
+613,Jammu and Kashmir,Pahalgam,2023,June,Autumn,Family,Domestic,42522,3.8,12633,Hotel,Train,1
+614,Himachal Pradesh,Dharamshala,2021,September,Winter,Pilgrimage,Domestic,27737,6.1,56703,Homestay,Flight,3
+615,Telangana,Bhongir,2023,July,Monsoon,Leisure,Domestic,6454,8.3,14614,Guesthouse,Car,2
+616,Telangana,Bhongir,2022,October,Summer,Family,Foreign,13272,5.5,11372,Homestay,Bus,5
+617,West Bengal,Kalimpong,2023,October,Monsoon,Leisure,Domestic,6076,7.5,13916,Hostel,Train,5
+618,Uttar Pradesh,Agra,2023,August,Spring,Wellness,Domestic,5074,6.9,41063,Hostel,Train,5
+619,Jammu and Kashmir,Leh,2021,April,Monsoon,Backpacking,Domestic,33825,5.1,73270,Hostel,Car,2
+620,Odisha,Bhubaneswar,2021,April,Autumn,Wellness,Domestic,41857,5.8,58349,Houseboat,Car,5
+621,Odisha,Bhubaneswar,2021,March,Autumn,Family,Domestic,19728,8.6,55273,Resort,Train,3
+622,Karnataka,Hampi,2022,November,Monsoon,Honeymoon,Domestic,15525,4.7,16384,Resort,Bus,2
+623,Rajasthan,Udaipur,2021,August,Autumn,Honeymoon,Domestic,2475,2.8,37244,Guesthouse,Car,2
+624,Uttar Pradesh,Lucknow,2023,November,Summer,Backpacking,Foreign,31890,8.0,8751,Camp,Flight,1
+625,Bihar,Nalanda,2025,June,Autumn,Adventure,Domestic,47513,8.6,32438,Houseboat,Flight,1
+626,Odisha,Puri,2025,September,Spring,Backpacking,Foreign,15652,6.4,42579,Homestay,Car,3
+627,Madhya Pradesh,Gwalior,2021,April,Autumn,Business,Domestic,18042,5.0,34832,Resort,Flight,5
+628,Telangana,Bhongir,2024,June,Winter,Family,Domestic,16194,9.7,20493,Guesthouse,Car,3
+629,Gujarat,Dwarka,2023,January,Spring,Leisure,Domestic,44063,3.2,73947,Camp,Flight,4
+630,Gujarat,Vadodara,2021,April,Spring,Adventure,Domestic,25804,9.3,34993,Camp,Car,3
+631,Maharashtra,Lonavala,2021,August,Summer,Business,Foreign,42283,4.7,5940,Houseboat,Bus,3
+632,Telangana,Ramoji Film City,2024,December,Monsoon,Wildlife,Foreign,45825,3.3,10198,Hostel,Flight,3
+633,Bihar,Gaya,2021,August,Monsoon,Backpacking,Domestic,42083,6.8,59617,Houseboat,Flight,2
+634,Madhya Pradesh,Bhopal,2024,October,Monsoon,Honeymoon,Domestic,33890,7.4,18551,Hotel,Flight,5
+635,Punjab,Patiala,2022,May,Summer,Heritage,Foreign,18517,2.8,55828,Resort,Bike,3
+636,Madhya Pradesh,Pachmarhi,2022,January,Summer,Wellness,Domestic,41116,3.1,13162,Hotel,Bike,4
+637,Uttar Pradesh,Prayagraj,2025,July,Winter,Pilgrimage,Domestic,9831,1.8,49724,Guesthouse,Car,2
+638,Himachal Pradesh,Shimla,2024,August,Autumn,Backpacking,Domestic,46814,2.8,36391,Camp,Car,3
+639,Madhya Pradesh,Bhopal,2021,October,Summer,Wildlife,Domestic,12460,4.8,55046,Resort,Bus,2
+640,West Bengal,Kalimpong,2022,August,Spring,Business,Domestic,42467,5.1,2852,Resort,Bus,4
+641,Punjab,Jalandhar,2021,December,Summer,Wildlife,Domestic,16842,1.7,74507,Hostel,Car,1
+642,Punjab,Chandigarh,2024,October,Monsoon,Heritage,Domestic,3032,1.0,67631,Houseboat,Bike,5
+643,West Bengal,Digha,2022,September,Summer,Family,Domestic,11182,5.5,45956,Hotel,Bike,4
+644,Goa,Panaji,2024,March,Autumn,Backpacking,Domestic,8430,5.5,38331,Homestay,Flight,3
+645,West Bengal,Kalimpong,2025,September,Monsoon,Wellness,Foreign,20729,7.6,65892,Homestay,Car,2
+646,Andhra Pradesh,Vizag,2021,January,Summer,Business,Domestic,17104,2.5,62728,Resort,Train,4
+647,Telangana,Hyderabad,2023,December,Monsoon,Heritage,Domestic,7422,8.6,20905,Guesthouse,Car,1
+648,Goa,South Goa,2021,March,Summer,Honeymoon,Foreign,36962,9.0,29339,Houseboat,Bike,5
+649,Odisha,Cuttack,2023,February,Autumn,Pilgrimage,Domestic,21588,1.2,17489,Resort,Car,4
+650,Sikkim,Gangtok,2021,January,Summer,Family,Foreign,43273,5.3,36800,Hotel,Car,5
+651,Punjab,Amritsar,2021,June,Autumn,Wellness,Domestic,3240,8.2,38587,Houseboat,Bike,3
+652,Goa,Anjuna,2024,February,Autumn,Wellness,Domestic,26193,1.8,28792,Hostel,Bus,2
+653,Madhya Pradesh,Indore,2021,May,Winter,Pilgrimage,Domestic,20372,9.1,18708,Hostel,Car,3
+654,Gujarat,Gir,2025,August,Autumn,Business,Domestic,39393,4.8,56882,Hostel,Car,3
+655,Tamil Nadu,Madurai,2025,January,Winter,Wildlife,Foreign,44381,3.0,21825,Guesthouse,Bus,4
+656,Odisha,Puri,2025,July,Autumn,Honeymoon,Domestic,8424,7.2,40875,Hotel,Car,2
+657,Jammu and Kashmir,Pahalgam,2025,September,Winter,Wellness,Domestic,33516,4.8,13884,Hotel,Flight,4
+658,Uttar Pradesh,Lucknow,2024,February,Spring,Honeymoon,Domestic,48580,7.0,25034,Camp,Bike,2
+659,Kerala,Munnar,2022,June,Monsoon,Wildlife,Domestic,29537,6.6,36243,Guesthouse,Car,3
+660,Karnataka,Mysuru,2022,May,Spring,Adventure,Domestic,1224,1.1,16793,Camp,Flight,1
+661,Telangana,Ramoji Film City,2021,December,Spring,Wildlife,Domestic,40468,4.2,53273,Hostel,Bus,3
+662,Uttarakhand,Haridwar,2022,February,Summer,Leisure,Domestic,12385,8.7,28924,Camp,Flight,4
+663,Maharashtra,Mahabaleshwar,2024,February,Summer,Backpacking,Domestic,27698,1.2,23271,Homestay,Car,2
+664,Telangana,Ramoji Film City,2024,October,Autumn,Leisure,Domestic,25722,1.5,2532,Resort,Train,1
+665,Jammu and Kashmir,Sonmarg,2021,December,Spring,Wellness,Domestic,26243,5.4,65450,Guesthouse,Bus,2
+666,Odisha,Puri,2024,June,Spring,Wildlife,Domestic,42537,4.8,63541,Guesthouse,Flight,1
+667,Bihar,Gaya,2022,December,Autumn,Family,Domestic,47642,2.7,46568,Hostel,Flight,4
+668,Odisha,Bhubaneswar,2023,October,Monsoon,Wellness,Domestic,19277,7.5,52666,Camp,Car,4
+669,Telangana,Warangal,2024,May,Summer,Wellness,Domestic,8510,2.6,21988,Houseboat,Flight,5
+670,Himachal Pradesh,Kasol,2022,April,Monsoon,Heritage,Domestic,1238,4.2,35684,Resort,Bike,3
+671,Tamil Nadu,Mahabalipuram,2023,June,Winter,Leisure,Domestic,7959,6.1,65248,Hostel,Flight,3
+672,Gujarat,Ahmedabad,2021,March,Monsoon,Backpacking,Domestic,6875,7.4,58886,Camp,Bike,4
+673,Himachal Pradesh,Spiti,2022,September,Winter,Wellness,Domestic,41332,2.1,28420,Hotel,Bike,3
+674,West Bengal,Siliguri,2022,August,Spring,Heritage,Domestic,23887,4.0,19558,Houseboat,Flight,1
+675,Andhra Pradesh,Vijayawada,2022,August,Summer,Leisure,Domestic,5635,3.4,55896,Homestay,Bus,3
+676,Uttarakhand,Auli,2021,March,Summer,Wildlife,Domestic,26874,9.1,69153,Camp,Car,3
+677,Andhra Pradesh,Tirupati,2022,February,Spring,Leisure,Domestic,10819,4.9,53046,Hotel,Bus,1
+678,Sikkim,Gangtok,2023,July,Monsoon,Backpacking,Foreign,47337,7.7,46609,Hostel,Bike,1
+679,Odisha,Cuttack,2024,August,Autumn,Pilgrimage,Foreign,40968,8.1,59452,Houseboat,Train,3
+680,Karnataka,Coorg,2023,September,Winter,Adventure,Domestic,48550,8.9,69719,Homestay,Car,5
+681,Karnataka,Bengaluru,2023,May,Spring,Backpacking,Domestic,10537,1.2,72270,Guesthouse,Bus,5
+682,Maharashtra,Lonavala,2021,February,Spring,Wildlife,Foreign,17073,6.6,47961,Houseboat,Flight,1
+683,Himachal Pradesh,Kasol,2022,December,Spring,Honeymoon,Domestic,15522,8.2,71399,Hotel,Car,5
+684,Gujarat,Dwarka,2022,November,Spring,Honeymoon,Domestic,16278,1.9,69192,Resort,Car,5
+685,Gujarat,Somnath,2022,December,Summer,Adventure,Domestic,4125,4.8,18547,Hostel,Car,4
+686,Andhra Pradesh,Vizag,2024,July,Spring,Family,Domestic,25922,8.8,66882,Guesthouse,Bike,4
+687,Telangana,Medak,2021,March,Summer,Wildlife,Domestic,30046,2.2,68764,Guesthouse,Train,5
+688,Karnataka,Hampi,2021,December,Winter,Heritage,Domestic,7833,6.4,55058,Resort,Bike,1
+689,Gujarat,Gir,2022,September,Winter,Honeymoon,Domestic,24590,3.7,65191,Resort,Flight,1
+690,Uttarakhand,Auli,2023,May,Winter,Wildlife,Domestic,48524,5.4,17533,Homestay,Train,5
+691,Goa,North Goa,2022,October,Autumn,Wildlife,Domestic,22189,8.0,63789,Homestay,Bike,5
+692,Uttarakhand,Auli,2022,November,Autumn,Heritage,Foreign,21363,1.8,55190,Hostel,Train,4
+693,Madhya Pradesh,Indore,2021,November,Winter,Backpacking,Domestic,10903,7.4,41981,Hostel,Bus,5
+694,Assam,Guwahati,2021,September,Spring,Business,Foreign,34243,2.7,63868,Guesthouse,Flight,5
+695,Himachal Pradesh,Dalhousie,2025,January,Summer,Backpacking,Domestic,46293,8.6,59726,Homestay,Train,1
+696,Bihar,Nalanda,2024,January,Spring,Wildlife,Domestic,11879,4.7,70693,Hostel,Flight,3
+697,Uttar Pradesh,Agra,2024,September,Winter,Adventure,Domestic,16798,7.9,21714,Resort,Bus,3
+698,Tamil Nadu,Chennai,2023,March,Monsoon,Wellness,Domestic,6521,3.9,55609,Hotel,Flight,3
+699,Madhya Pradesh,Khajuraho,2021,April,Summer,Leisure,Domestic,32357,5.6,67615,Camp,Bike,4
+700,Uttar Pradesh,Agra,2025,September,Autumn,Family,Domestic,26755,6.7,3940,Hostel,Flight,3
+701,Sikkim,Ravangla,2022,September,Summer,Adventure,Domestic,26706,5.0,67092,Houseboat,Train,2
+702,Gujarat,Gir,2021,September,Summer,Pilgrimage,Domestic,115,8.3,39412,Hostel,Bike,2
+703,Kerala,Wayanad,2021,May,Spring,Honeymoon,Foreign,41482,2.9,68389,Camp,Car,3
+704,Tamil Nadu,Rameswaram,2024,February,Spring,Backpacking,Domestic,8109,8.5,74438,Homestay,Flight,3
+705,Karnataka,Chikmagalur,2023,November,Monsoon,Backpacking,Foreign,46433,5.1,33734,Homestay,Bus,3
+706,Karnataka,Hampi,2022,January,Monsoon,Wellness,Domestic,184,6.5,2060,Houseboat,Train,1
+707,Jammu and Kashmir,Jammu,2024,September,Autumn,Heritage,Domestic,44064,5.0,17676,Hotel,Flight,3
+708,Bihar,Nalanda,2023,December,Summer,Wildlife,Domestic,12697,5.0,30535,Hotel,Flight,1
+709,Gujarat,Rann of Kutch,2024,November,Spring,Adventure,Domestic,32412,9.7,6322,Homestay,Train,3
+710,Bihar,Bodh Gaya,2022,November,Summer,Leisure,Foreign,37346,5.5,23844,Hostel,Flight,5
+711,Sikkim,Ravangla,2023,March,Spring,Wellness,Domestic,4313,2.1,31379,Hotel,Bike,5
+712,Karnataka,Gokarna,2024,October,Spring,Leisure,Foreign,178,9.4,8297,Homestay,Bike,3
+713,Jammu and Kashmir,Pahalgam,2023,August,Spring,Adventure,Domestic,2898,9.0,30931,Hostel,Bus,1
+714,Jammu and Kashmir,Jammu,2021,January,Monsoon,Heritage,Domestic,37524,8.3,31073,Hostel,Train,4
+715,Maharashtra,Pune,2022,May,Monsoon,Pilgrimage,Domestic,28358,8.3,45317,Hotel,Flight,3
+716,Himachal Pradesh,Kasol,2024,January,Monsoon,Business,Domestic,15565,9.5,58978,Camp,Bus,1
+717,Sikkim,Gangtok,2024,January,Winter,Adventure,Foreign,45490,1.6,18216,Hostel,Bus,1
+718,Kerala,Kochi,2025,February,Autumn,Wellness,Domestic,19377,8.6,54149,Hotel,Flight,1
+719,Jammu and Kashmir,Gulmarg,2021,January,Spring,Wellness,Domestic,28106,8.9,14774,Hostel,Car,3
+720,Andhra Pradesh,Kakinada,2022,April,Spring,Family,Domestic,46796,1.6,26877,Hotel,Flight,5
+721,Odisha,Konark,2022,August,Autumn,Family,Domestic,15985,2.2,7276,Houseboat,Bike,1
+722,West Bengal,Sundarbans,2023,November,Spring,Wildlife,Domestic,35514,8.0,20821,Camp,Bus,4
+723,Bihar,Nalanda,2021,January,Monsoon,Honeymoon,Domestic,9526,1.5,67967,Guesthouse,Bike,5
+724,Jammu and Kashmir,Pahalgam,2023,November,Summer,Business,Domestic,43818,5.3,62763,Resort,Flight,5
+725,Sikkim,Namchi,2022,May,Spring,Family,Domestic,29823,8.9,7030,Hostel,Bus,4
+726,Rajasthan,Mount Abu,2022,August,Summer,Business,Domestic,48191,7.9,44952,Guesthouse,Train,4
+727,Madhya Pradesh,Bhopal,2025,January,Monsoon,Leisure,Domestic,7599,2.3,59225,Hotel,Bus,2
+728,Gujarat,Ahmedabad,2022,April,Summer,Leisure,Domestic,17220,7.5,46040,Homestay,Train,5
+729,Tamil Nadu,Ooty,2022,May,Summer,Leisure,Foreign,9044,4.4,16044,Hotel,Flight,3
+730,West Bengal,Digha,2022,June,Monsoon,Business,Foreign,40892,8.9,10069,Houseboat,Train,1
+731,Uttarakhand,Haridwar,2025,July,Spring,Business,Domestic,28200,9.8,33553,Houseboat,Bus,1
+732,Sikkim,Pelling,2024,March,Monsoon,Backpacking,Domestic,18404,8.9,68119,Homestay,Train,5
+733,Karnataka,Gokarna,2024,November,Autumn,Adventure,Domestic,25485,7.8,68236,Guesthouse,Flight,3
+734,Odisha,Chilika Lake,2025,December,Monsoon,Pilgrimage,Domestic,46950,9.6,63596,Homestay,Bike,3
+735,Madhya Pradesh,Gwalior,2024,April,Winter,Wellness,Domestic,15410,4.6,41607,Resort,Train,4
+736,Sikkim,Pelling,2025,September,Monsoon,Family,Domestic,19386,5.0,47581,Hotel,Train,2
+737,Kerala,Wayanad,2023,June,Spring,Backpacking,Domestic,26851,4.3,66713,Hostel,Car,3
+738,Madhya Pradesh,Khajuraho,2025,April,Autumn,Pilgrimage,Domestic,5451,3.7,67267,Homestay,Flight,5
+739,Goa,Panaji,2023,February,Winter,Business,Domestic,13177,4.0,44654,Hotel,Bus,3
+740,Uttar Pradesh,Varanasi,2024,December,Summer,Wellness,Foreign,609,7.9,38442,Houseboat,Bike,3
+741,Madhya Pradesh,Ujjain,2022,November,Autumn,Leisure,Foreign,14964,3.0,29008,Guesthouse,Train,4
+742,Odisha,Cuttack,2024,December,Autumn,Backpacking,Domestic,5677,3.8,26121,Camp,Car,4
+743,Karnataka,Hampi,2023,January,Spring,Heritage,Domestic,8461,3.8,2768,Homestay,Train,4
+744,Punjab,Chandigarh,2021,November,Autumn,Wildlife,Domestic,45303,5.8,44239,Camp,Car,5
+745,Sikkim,Gangtok,2024,June,Summer,Pilgrimage,Foreign,37659,8.8,51480,Guesthouse,Bike,2
+746,Goa,Anjuna,2022,August,Summer,Wildlife,Domestic,29641,6.8,41430,Hotel,Bus,1
+747,Himachal Pradesh,Dalhousie,2022,January,Summer,Backpacking,Domestic,12285,2.8,52079,Camp,Bike,3
+748,Maharashtra,Lonavala,2022,August,Winter,Backpacking,Domestic,11310,3.9,55352,Hotel,Bus,4
+749,Himachal Pradesh,Manali,2024,August,Autumn,Backpacking,Domestic,13581,2.2,28458,Houseboat,Flight,3
+750,Telangana,Warangal,2022,May,Spring,Wellness,Domestic,44931,5.1,27937,Guesthouse,Train,1
+751,Andhra Pradesh,Vizag,2023,April,Spring,Wildlife,Foreign,32225,5.1,6622,Guesthouse,Bus,1
+752,Andhra Pradesh,Araku Valley,2024,October,Autumn,Honeymoon,Domestic,11818,9.1,58133,Camp,Train,4
+753,Tamil Nadu,Rameswaram,2021,July,Winter,Wellness,Domestic,10400,3.5,71982,Houseboat,Flight,3
+754,Karnataka,Hampi,2024,February,Spring,Wildlife,Domestic,33106,7.9,44231,Homestay,Flight,4
+755,Tamil Nadu,Kodaikanal,2023,January,Spring,Business,Domestic,45563,7.1,62042,Hostel,Flight,4
+756,Madhya Pradesh,Bhopal,2024,January,Winter,Wildlife,Domestic,8994,3.9,62349,Homestay,Flight,4
+757,Goa,North Goa,2025,December,Summer,Backpacking,Domestic,18343,8.6,23859,Hostel,Train,1
+758,Himachal Pradesh,Manali,2024,September,Winter,Honeymoon,Domestic,44050,7.9,37315,Houseboat,Car,2
+759,Gujarat,Rann of Kutch,2024,November,Winter,Business,Domestic,3179,8.5,70034,Guesthouse,Train,1
+760,West Bengal,Digha,2021,January,Spring,Leisure,Domestic,16414,4.4,32765,Hotel,Car,2
+761,Rajasthan,Jaisalmer,2022,June,Winter,Leisure,Domestic,4190,3.0,14161,Camp,Train,2
+762,Kerala,Wayanad,2024,June,Winter,Backpacking,Domestic,40988,2.9,72502,Homestay,Bike,4
+763,Himachal Pradesh,Manali,2024,June,Winter,Business,Domestic,42910,3.8,52511,Homestay,Train,2
+764,Maharashtra,Mumbai,2025,June,Spring,Honeymoon,Foreign,26991,3.7,66980,Hotel,Flight,1
+765,Sikkim,Pelling,2024,October,Winter,Honeymoon,Domestic,45513,2.2,24480,Homestay,Car,3
+766,Goa,Panaji,2021,October,Spring,Leisure,Domestic,48665,3.1,3242,Hostel,Car,2
+767,Bihar,Patna,2022,December,Summer,Honeymoon,Domestic,3977,2.2,66869,Hostel,Train,3
+768,Uttarakhand,Mussoorie,2023,April,Winter,Business,Foreign,29130,7.7,44582,Houseboat,Bike,2
+769,Punjab,Jalandhar,2022,July,Spring,Leisure,Domestic,15058,8.6,44920,Houseboat,Bus,3
+770,Karnataka,Chikmagalur,2021,November,Summer,Leisure,Domestic,25051,5.7,25557,Houseboat,Train,4
+771,Goa,Calangute,2022,January,Summer,Adventure,Foreign,8278,1.8,73438,Houseboat,Train,2
+772,Odisha,Puri,2025,May,Autumn,Wildlife,Domestic,11612,6.5,41228,Resort,Train,3
+773,Andhra Pradesh,Lepakshi,2025,August,Monsoon,Business,Domestic,11044,5.2,56903,Hotel,Bus,5
+774,Jammu and Kashmir,Gulmarg,2022,July,Winter,Heritage,Domestic,19725,6.4,21527,Hostel,Flight,5
+775,Uttar Pradesh,Mathura,2022,August,Monsoon,Heritage,Domestic,31562,1.6,19411,Homestay,Car,4
+776,Uttarakhand,Haridwar,2024,September,Winter,Leisure,Domestic,27301,9.5,50408,Houseboat,Bus,4
+777,West Bengal,Siliguri,2023,July,Winter,Wellness,Domestic,37117,2.5,58686,Hotel,Flight,3
+778,Odisha,Gopalpur,2023,December,Monsoon,Heritage,Foreign,48262,3.2,64116,Hotel,Car,1
+779,Rajasthan,Mount Abu,2021,October,Monsoon,Pilgrimage,Domestic,39512,6.2,22658,Hostel,Train,1
+780,Goa,Margao,2023,December,Autumn,Wildlife,Domestic,12424,8.9,23234,Guesthouse,Flight,4
+781,West Bengal,Sundarbans,2023,October,Autumn,Backpacking,Domestic,47737,8.8,15822,Homestay,Car,5
+782,Uttarakhand,Nainital,2025,December,Autumn,Business,Foreign,32275,1.0,10654,Homestay,Flight,4
+783,Jammu and Kashmir,Leh,2021,March,Autumn,Honeymoon,Domestic,8853,2.8,25353,Resort,Bus,5
+784,Andhra Pradesh,Kakinada,2025,April,Summer,Business,Foreign,12625,3.3,55081,Hotel,Train,4
+785,Himachal Pradesh,Dalhousie,2024,May,Winter,Pilgrimage,Domestic,4261,4.1,32273,Hotel,Car,4
+786,Himachal Pradesh,Shimla,2024,January,Monsoon,Leisure,Domestic,2793,1.9,69963,Houseboat,Bike,1
+787,Bihar,Vaishali,2022,August,Autumn,Honeymoon,Domestic,22106,4.3,46467,Camp,Bus,3
+788,Gujarat,Vadodara,2021,October,Autumn,Wildlife,Foreign,6615,1.0,54165,Hotel,Bus,2
+789,Bihar,Patna,2024,December,Monsoon,Backpacking,Domestic,40574,7.2,63785,Camp,Train,5
+790,Karnataka,Bengaluru,2025,November,Winter,Family,Foreign,48272,3.9,59736,Homestay,Flight,2
+791,Telangana,Ramoji Film City,2025,June,Winter,Wellness,Foreign,45892,9.1,51944,Hostel,Car,3
+792,Karnataka,Gokarna,2024,October,Spring,Pilgrimage,Domestic,32682,8.2,40998,Camp,Bike,5
+793,Tamil Nadu,Madurai,2024,November,Autumn,Adventure,Domestic,11219,7.8,13222,Guesthouse,Train,1
+794,Rajasthan,Udaipur,2024,May,Autumn,Family,Domestic,43998,2.1,19293,Resort,Bus,5
+795,Goa,Margao,2024,October,Summer,Family,Domestic,22543,4.4,51523,Camp,Bike,5
+796,Maharashtra,Pune,2025,May,Winter,Honeymoon,Domestic,48584,6.3,26162,Hotel,Flight,1
+797,Gujarat,Rann of Kutch,2023,October,Autumn,Family,Domestic,38720,5.8,52375,Houseboat,Flight,4
+798,Gujarat,Vadodara,2022,November,Spring,Pilgrimage,Domestic,25957,1.1,61872,Guesthouse,Bike,3
+799,West Bengal,Darjeeling,2023,March,Autumn,Heritage,Domestic,43654,8.6,6001,Guesthouse,Bus,5
+800,West Bengal,Sundarbans,2023,December,Monsoon,Adventure,Domestic,14186,5.5,50875,Guesthouse,Car,1
+801,Uttarakhand,Jim Corbett,2022,December,Summer,Business,Foreign,11782,8.7,52855,Houseboat,Flight,3
+802,Rajasthan,Pushkar,2023,July,Monsoon,Wildlife,Foreign,49707,4.5,10914,Houseboat,Car,5
+803,West Bengal,Siliguri,2024,July,Spring,Business,Domestic,38086,8.8,8594,Hotel,Train,3
+804,Tamil Nadu,Mahabalipuram,2023,December,Autumn,Pilgrimage,Foreign,13797,3.0,27144,Hostel,Bus,1
+805,Sikkim,Gangtok,2021,July,Autumn,Pilgrimage,Foreign,6344,4.2,63611,Houseboat,Train,2
+806,Himachal Pradesh,Spiti,2025,July,Spring,Family,Domestic,7835,3.2,65545,Resort,Car,3
+807,Tamil Nadu,Rameswaram,2021,August,Winter,Wildlife,Domestic,42857,5.0,3020,Camp,Car,1
+808,Goa,North Goa,2022,April,Spring,Heritage,Domestic,37577,5.3,13893,Hotel,Bike,5
+809,Madhya Pradesh,Pachmarhi,2024,October,Monsoon,Wildlife,Domestic,46827,9.2,71952,Resort,Flight,2
+810,Rajasthan,Jaisalmer,2021,September,Spring,Backpacking,Domestic,38370,5.9,17764,Hostel,Flight,2
+811,Tamil Nadu,Mahabalipuram,2025,September,Winter,Pilgrimage,Domestic,8492,6.2,22630,Hostel,Bus,1
+812,Uttar Pradesh,Agra,2023,September,Winter,Adventure,Foreign,11296,4.8,1511,Homestay,Bus,2
+813,Kerala,Thekkady,2025,August,Spring,Honeymoon,Domestic,20558,5.7,47652,Resort,Bike,5
+814,Odisha,Bhubaneswar,2025,April,Winter,Adventure,Domestic,14154,9.6,73861,Hotel,Train,2
+815,Gujarat,Dwarka,2024,July,Spring,Pilgrimage,Domestic,25070,6.8,22906,Hotel,Bike,4
+816,Goa,Panaji,2025,September,Summer,Wildlife,Domestic,17705,10.0,26748,Resort,Flight,3
+817,Odisha,Cuttack,2025,March,Autumn,Pilgrimage,Domestic,39608,3.2,36905,Homestay,Car,1
+818,Himachal Pradesh,Dalhousie,2023,February,Autumn,Backpacking,Domestic,21907,8.0,20679,Homestay,Flight,2
+819,Rajasthan,Jaipur,2025,July,Summer,Wildlife,Domestic,47781,8.9,65675,Hotel,Flight,1
+820,Gujarat,Vadodara,2023,September,Monsoon,Wellness,Domestic,3193,2.5,52560,Homestay,Bike,2
+821,Assam,Jorhat,2022,August,Autumn,Wellness,Domestic,45050,5.6,21880,Guesthouse,Train,2
+822,Madhya Pradesh,Ujjain,2022,December,Winter,Honeymoon,Domestic,16375,7.1,56320,Houseboat,Bus,4
+823,Andhra Pradesh,Araku Valley,2021,May,Spring,Heritage,Domestic,47135,8.9,31484,Homestay,Car,3
+824,West Bengal,Digha,2023,November,Winter,Family,Domestic,6186,2.5,9025,Hotel,Flight,1
+825,Assam,Sivasagar,2024,November,Autumn,Leisure,Domestic,33801,7.2,71283,Guesthouse,Train,1
+826,Rajasthan,Pushkar,2021,December,Winter,Business,Domestic,16055,9.9,70720,Hostel,Bike,5
+827,Bihar,Rajgir,2024,April,Spring,Pilgrimage,Domestic,8787,5.6,8172,Resort,Flight,4
+828,Madhya Pradesh,Bhopal,2023,June,Winter,Family,Foreign,7774,3.6,64824,Houseboat,Train,3
+829,Karnataka,Bengaluru,2023,April,Autumn,Wellness,Foreign,2371,9.4,65498,Homestay,Bike,1
+830,Rajasthan,Pushkar,2021,May,Monsoon,Heritage,Domestic,47395,2.7,47969,Homestay,Flight,1
+831,Jammu and Kashmir,Sonmarg,2024,September,Winter,Business,Domestic,31993,1.1,34285,Guesthouse,Train,2
+832,Madhya Pradesh,Indore,2022,July,Monsoon,Honeymoon,Foreign,7173,9.9,59087,Resort,Bike,2
+833,Gujarat,Vadodara,2023,June,Winter,Wildlife,Domestic,18721,1.4,53213,Camp,Train,4
+834,Kerala,Alleppey,2024,November,Autumn,Business,Domestic,36102,5.5,18203,Homestay,Flight,3
+835,Odisha,Gopalpur,2023,February,Summer,Wildlife,Domestic,22602,5.5,32499,Hotel,Flight,1
+836,Jammu and Kashmir,Jammu,2022,August,Autumn,Leisure,Domestic,49916,4.9,21487,Homestay,Bus,5
+837,Maharashtra,Lonavala,2025,December,Monsoon,Adventure,Domestic,46348,8.0,15008,Resort,Car,5
+838,Tamil Nadu,Ooty,2021,April,Summer,Wellness,Domestic,17997,9.9,20663,Hotel,Train,4
+839,Bihar,Bodh Gaya,2024,July,Winter,Adventure,Domestic,41554,9.8,30568,Hostel,Bike,3
+840,Telangana,Hyderabad,2022,November,Autumn,Backpacking,Domestic,23877,3.5,47509,Hotel,Bus,4
+841,Punjab,Amritsar,2022,January,Winter,Pilgrimage,Domestic,30986,3.5,14707,Hotel,Bus,4
+842,Uttar Pradesh,Mathura,2023,May,Monsoon,Family,Domestic,44808,6.0,18579,Hotel,Flight,3
+843,Gujarat,Vadodara,2022,October,Spring,Wellness,Domestic,13814,6.3,12933,Homestay,Train,1
+844,Bihar,Patna,2025,November,Spring,Leisure,Domestic,29263,9.3,11314,Camp,Train,5
+845,Punjab,Ludhiana,2023,September,Summer,Heritage,Domestic,12613,4.8,34599,Houseboat,Train,5
+846,Gujarat,Somnath,2023,February,Autumn,Adventure,Domestic,33071,8.1,23380,Hostel,Car,5
+847,Uttarakhand,Nainital,2021,January,Spring,Leisure,Domestic,26100,5.5,71291,Camp,Train,5
+848,Tamil Nadu,Madurai,2025,September,Autumn,Backpacking,Domestic,17842,2.9,1971,Camp,Car,2
+849,Karnataka,Chikmagalur,2021,August,Spring,Leisure,Domestic,14489,3.7,36694,Guesthouse,Bike,5
+850,Tamil Nadu,Ooty,2022,April,Spring,Leisure,Domestic,18253,9.3,36946,Homestay,Flight,1
+851,Karnataka,Chikmagalur,2022,November,Winter,Adventure,Foreign,21320,1.7,73494,Homestay,Bike,3
+852,Jammu and Kashmir,Jammu,2023,January,Monsoon,Honeymoon,Foreign,14420,7.6,38159,Houseboat,Flight,2
+853,Rajasthan,Pushkar,2024,December,Winter,Wellness,Foreign,16915,8.8,73704,Houseboat,Car,2
+854,Maharashtra,Lonavala,2022,October,Summer,Honeymoon,Domestic,15236,7.6,58372,Houseboat,Car,3
+855,Telangana,Hyderabad,2021,August,Summer,Heritage,Domestic,32196,9.5,25146,Resort,Train,3
+856,West Bengal,Darjeeling,2021,November,Autumn,Pilgrimage,Domestic,4771,4.8,61140,Guesthouse,Train,4
+857,Odisha,Bhubaneswar,2022,February,Spring,Leisure,Domestic,938,7.9,7233,Hostel,Car,2
+858,Goa,Panaji,2022,January,Spring,Pilgrimage,Foreign,7019,5.9,45853,Camp,Flight,1
+859,Uttarakhand,Mussoorie,2021,March,Autumn,Wellness,Domestic,16028,1.5,36556,Homestay,Bus,5
+860,Rajasthan,Jaipur,2022,May,Spring,Adventure,Foreign,27266,2.3,30901,Hotel,Bike,1
+861,Jammu and Kashmir,Sonmarg,2022,November,Monsoon,Pilgrimage,Foreign,44903,4.5,16233,Homestay,Train,4
+862,Himachal Pradesh,Manali,2025,June,Monsoon,Adventure,Domestic,23675,9.3,12615,Hotel,Bike,1
+863,Uttarakhand,Haridwar,2023,June,Spring,Wildlife,Domestic,9894,9.0,41026,Guesthouse,Train,5
+864,Gujarat,Ahmedabad,2022,November,Autumn,Honeymoon,Foreign,46666,8.2,1785,Homestay,Bus,2
+865,Punjab,Chandigarh,2021,December,Autumn,Wildlife,Foreign,7466,6.2,38000,Camp,Car,2
+866,Punjab,Chandigarh,2022,June,Autumn,Pilgrimage,Domestic,45494,9.8,45207,Homestay,Car,2
+867,Madhya Pradesh,Pachmarhi,2025,September,Autumn,Backpacking,Domestic,15130,4.5,56791,Guesthouse,Car,5
+868,Maharashtra,Nashik,2021,June,Summer,Adventure,Foreign,1174,4.3,63618,Hotel,Train,2
+869,Kerala,Kochi,2022,May,Summer,Family,Foreign,36193,9.7,56691,Hostel,Train,2
+870,Maharashtra,Mumbai,2021,December,Winter,Pilgrimage,Domestic,1776,7.3,57167,Houseboat,Train,3
+871,Himachal Pradesh,Dalhousie,2022,August,Winter,Wellness,Foreign,2028,2.3,20017,Camp,Bike,1
+872,Goa,North Goa,2024,March,Autumn,Wellness,Domestic,9232,7.7,40757,Camp,Train,4
+873,Punjab,Patiala,2022,February,Monsoon,Leisure,Foreign,2154,6.4,24251,Resort,Flight,5
+874,Rajasthan,Jaisalmer,2022,September,Autumn,Wildlife,Foreign,32940,3.8,31294,Houseboat,Bus,4
+875,Uttar Pradesh,Agra,2025,March,Autumn,Backpacking,Domestic,3719,3.0,25577,Houseboat,Train,5
+876,Goa,Margao,2022,June,Autumn,Heritage,Foreign,10851,1.5,50190,Houseboat,Car,4
+877,Uttar Pradesh,Agra,2022,June,Winter,Adventure,Domestic,18544,2.5,15454,Guesthouse,Bus,1
+878,Bihar,Patna,2024,September,Summer,Honeymoon,Domestic,5623,9.8,7381,Resort,Flight,5
+879,Kerala,Munnar,2023,May,Winter,Family,Domestic,26142,5.5,42718,Hotel,Bus,4
+880,Uttarakhand,Jim Corbett,2025,July,Monsoon,Adventure,Domestic,9892,1.2,51584,Houseboat,Bike,4
+881,Kerala,Kochi,2022,November,Summer,Pilgrimage,Foreign,6163,9.6,31852,Hostel,Flight,2
+882,Tamil Nadu,Mahabalipuram,2024,November,Spring,Backpacking,Domestic,8648,4.1,48727,Guesthouse,Bus,5
+883,Kerala,Kovalam,2021,April,Summer,Wildlife,Domestic,10037,6.1,66711,Guesthouse,Bike,1
+884,Uttarakhand,Nainital,2023,August,Winter,Backpacking,Domestic,19422,2.5,38215,Hotel,Car,5
+885,Gujarat,Ahmedabad,2021,December,Summer,Adventure,Domestic,31065,9.8,59439,Camp,Car,2
+886,Sikkim,Yumthang,2025,May,Monsoon,Leisure,Foreign,44652,2.2,49568,Hostel,Car,5
+887,Punjab,Ludhiana,2025,September,Autumn,Adventure,Foreign,44781,1.4,8978,Hostel,Bus,2
+888,Rajasthan,Udaipur,2023,July,Monsoon,Adventure,Domestic,4832,3.0,62091,Resort,Bike,1
+889,Andhra Pradesh,Vijayawada,2023,February,Autumn,Backpacking,Domestic,26064,7.9,27645,Hotel,Train,4
+890,Goa,Panaji,2022,August,Spring,Family,Domestic,29841,1.3,21913,Resort,Car,4
+891,Karnataka,Coorg,2021,October,Winter,Wellness,Domestic,23740,8.1,63550,Camp,Car,2
+892,Karnataka,Bengaluru,2024,May,Monsoon,Wildlife,Domestic,4588,3.5,12209,Houseboat,Train,3
+893,Jammu and Kashmir,Jammu,2022,March,Monsoon,Business,Domestic,28134,4.1,40415,Camp,Flight,2
+894,Gujarat,Somnath,2025,September,Autumn,Heritage,Foreign,28675,4.2,52505,Houseboat,Train,1
+895,Bihar,Bodh Gaya,2022,October,Spring,Adventure,Domestic,48176,7.7,42986,Resort,Bus,1
+896,Andhra Pradesh,Tirupati,2024,February,Monsoon,Heritage,Domestic,47385,1.0,60555,Camp,Car,2
+897,Sikkim,Gangtok,2022,December,Summer,Leisure,Domestic,10935,6.4,29829,Resort,Car,3
+898,Karnataka,Gokarna,2024,June,Winter,Wellness,Domestic,20167,5.5,17850,Camp,Bus,4
+899,Jammu and Kashmir,Sonmarg,2024,September,Monsoon,Family,Foreign,22058,2.0,24544,Hostel,Bike,4
+900,Gujarat,Rann of Kutch,2025,March,Spring,Backpacking,Domestic,43277,7.2,58843,Guesthouse,Car,3
+901,Himachal Pradesh,Shimla,2024,November,Winter,Adventure,Foreign,6844,5.5,72899,Hotel,Bike,1
+902,Odisha,Cuttack,2021,July,Monsoon,Leisure,Domestic,36198,4.4,27132,Resort,Train,4
+903,Gujarat,Somnath,2024,January,Autumn,Wildlife,Domestic,17588,8.9,36168,Homestay,Train,3
+904,Maharashtra,Mumbai,2022,January,Winter,Wildlife,Domestic,34060,8.4,43111,Hotel,Train,3
+905,Sikkim,Yumthang,2024,July,Spring,Business,Domestic,3430,8.2,57743,Resort,Bike,2
+906,Tamil Nadu,Madurai,2025,March,Spring,Family,Domestic,8329,5.5,52881,Hostel,Train,3
+907,Tamil Nadu,Kodaikanal,2025,February,Winter,Business,Domestic,38931,2.4,72760,Hotel,Car,1
+908,Madhya Pradesh,Khajuraho,2025,November,Autumn,Pilgrimage,Domestic,42813,9.1,40418,Houseboat,Bus,2
+909,Maharashtra,Nashik,2024,November,Monsoon,Wildlife,Domestic,9472,6.6,15055,Hotel,Bus,1
+910,Bihar,Patna,2021,May,Summer,Adventure,Domestic,32440,8.6,28759,Homestay,Train,4
+911,Telangana,Hyderabad,2022,August,Winter,Wildlife,Domestic,27569,4.4,42602,Houseboat,Flight,4
+912,Tamil Nadu,Kodaikanal,2025,November,Summer,Leisure,Foreign,7731,9.8,46953,Guesthouse,Bike,4
+913,Bihar,Vaishali,2025,September,Summer,Leisure,Foreign,12688,6.5,71748,Houseboat,Bus,1
+914,Odisha,Bhubaneswar,2023,February,Monsoon,Business,Domestic,14452,1.8,18091,Resort,Flight,3
+915,Telangana,Warangal,2023,December,Monsoon,Adventure,Domestic,32542,4.9,53921,Guesthouse,Bus,2
+916,Tamil Nadu,Ooty,2024,February,Autumn,Honeymoon,Domestic,13539,9.6,65441,Guesthouse,Bike,4
+917,Jammu and Kashmir,Jammu,2024,October,Monsoon,Honeymoon,Domestic,13138,6.1,50515,Hotel,Bike,1
+918,Tamil Nadu,Chennai,2024,October,Monsoon,Backpacking,Domestic,42327,9.6,71033,Hostel,Bus,3
+919,Rajasthan,Jaipur,2022,July,Monsoon,Pilgrimage,Domestic,4810,2.9,50214,Camp,Train,3
+920,Punjab,Amritsar,2021,December,Monsoon,Leisure,Domestic,37239,8.2,31993,Hotel,Bus,5
+921,Madhya Pradesh,Indore,2024,September,Summer,Wellness,Domestic,46991,6.5,11307,Resort,Flight,5
+922,Jammu and Kashmir,Pahalgam,2022,April,Summer,Family,Domestic,18034,4.8,17765,Hotel,Car,4
+923,Bihar,Nalanda,2023,April,Autumn,Wellness,Domestic,42233,8.0,2109,Guesthouse,Flight,4
+924,Uttarakhand,Mussoorie,2023,September,Spring,Leisure,Domestic,4601,5.2,55905,Hotel,Bus,3
+925,Punjab,Ludhiana,2021,September,Winter,Wildlife,Domestic,3134,4.5,61082,Camp,Bus,4
+926,Gujarat,Gir,2022,April,Winter,Adventure,Domestic,21208,8.8,58605,Hotel,Flight,2
+927,Goa,South Goa,2023,January,Spring,Family,Domestic,2873,2.0,41383,Houseboat,Flight,1
+928,Punjab,Jalandhar,2022,May,Autumn,Wellness,Foreign,38287,5.1,18052,Houseboat,Train,3
+929,Sikkim,Yumthang,2024,September,Winter,Heritage,Domestic,43386,5.4,38271,Guesthouse,Train,3
+930,Maharashtra,Mumbai,2021,December,Monsoon,Honeymoon,Domestic,15934,6.9,28486,Hotel,Bus,1
+931,Telangana,Hyderabad,2025,November,Winter,Business,Foreign,12365,5.4,46123,Resort,Car,2
+932,Odisha,Cuttack,2024,December,Monsoon,Family,Foreign,6974,9.2,30176,Hostel,Train,3
+933,Andhra Pradesh,Kakinada,2024,July,Summer,Backpacking,Domestic,10810,7.2,14877,Resort,Flight,2
+934,Himachal Pradesh,Dalhousie,2023,January,Summer,Adventure,Domestic,31260,7.0,60828,Hostel,Train,3
+935,Himachal Pradesh,Spiti,2023,July,Monsoon,Adventure,Domestic,28286,5.6,8467,Resort,Train,4
+936,Gujarat,Ahmedabad,2025,December,Autumn,Leisure,Domestic,26440,2.6,37666,Hostel,Train,5
+937,Telangana,Bhongir,2023,November,Winter,Wildlife,Foreign,14440,2.0,6177,Hotel,Train,5
+938,Maharashtra,Mumbai,2023,May,Winter,Backpacking,Domestic,26563,4.5,14778,Resort,Bike,2
+939,Telangana,Warangal,2025,June,Summer,Pilgrimage,Domestic,18922,7.6,13852,Houseboat,Bus,2
+940,Bihar,Rajgir,2024,March,Summer,Honeymoon,Domestic,21818,9.1,20090,Homestay,Flight,1
+941,Jammu and Kashmir,Pahalgam,2021,May,Summer,Leisure,Domestic,687,6.3,63605,Hotel,Train,5
+942,Telangana,Warangal,2022,January,Winter,Heritage,Domestic,19098,8.5,70348,Camp,Flight,5
+943,Uttarakhand,Rishikesh,2023,December,Monsoon,Adventure,Domestic,23038,9.9,35230,Homestay,Car,4
+944,Gujarat,Somnath,2023,May,Monsoon,Leisure,Foreign,43561,8.7,64985,Houseboat,Bus,1
+945,Odisha,Gopalpur,2025,July,Summer,Leisure,Domestic,9332,4.2,5550,Camp,Train,2
+946,Jammu and Kashmir,Pahalgam,2022,April,Winter,Business,Foreign,41133,7.1,60386,Hostel,Flight,5
+947,Uttar Pradesh,Prayagraj,2025,July,Monsoon,Family,Foreign,18154,3.8,6887,Guesthouse,Car,5
+948,Punjab,Bathinda,2022,August,Autumn,Adventure,Domestic,596,5.5,20784,Guesthouse,Bus,4
+949,Odisha,Konark,2021,November,Spring,Wellness,Domestic,4284,8.2,3543,Resort,Bus,4
+950,Karnataka,Coorg,2023,January,Winter,Wellness,Domestic,23135,6.9,1584,Hostel,Bus,1
+951,Uttarakhand,Nainital,2024,November,Spring,Honeymoon,Domestic,5686,7.4,20196,Camp,Bike,2
+952,Sikkim,Gangtok,2021,January,Summer,Honeymoon,Domestic,44516,6.7,56886,Hostel,Bus,4
+953,Uttar Pradesh,Lucknow,2023,March,Monsoon,Wellness,Domestic,21184,8.2,19742,Guesthouse,Car,2
+954,Uttarakhand,Mussoorie,2024,May,Summer,Backpacking,Domestic,41227,5.2,25534,Homestay,Flight,4
+955,Himachal Pradesh,Manali,2024,December,Autumn,Backpacking,Foreign,46750,4.2,47924,Homestay,Bike,4
+956,Jammu and Kashmir,Sonmarg,2025,September,Winter,Heritage,Domestic,9263,6.5,41134,Hotel,Car,2
+957,Odisha,Konark,2025,September,Spring,Pilgrimage,Domestic,25783,2.1,2280,Guesthouse,Bus,4
+958,Andhra Pradesh,Vizag,2021,May,Winter,Adventure,Domestic,6433,8.4,64606,Camp,Flight,3
+959,Himachal Pradesh,Dalhousie,2022,December,Spring,Wellness,Domestic,33883,2.3,66420,Houseboat,Flight,2
+960,Uttarakhand,Nainital,2021,August,Winter,Honeymoon,Domestic,52,2.4,17364,Guesthouse,Train,5
+961,Maharashtra,Pune,2024,January,Autumn,Adventure,Domestic,3697,9.3,40811,Camp,Bike,4
+962,Tamil Nadu,Ooty,2022,October,Monsoon,Backpacking,Foreign,40496,2.1,20668,Houseboat,Car,1
+963,Uttarakhand,Jim Corbett,2024,September,Summer,Business,Domestic,31537,3.6,14609,Houseboat,Bike,5
+964,Gujarat,Vadodara,2021,July,Autumn,Honeymoon,Domestic,27891,2.3,38648,Houseboat,Flight,4
+965,Sikkim,Yumthang,2023,May,Spring,Leisure,Domestic,23297,9.7,62829,Hotel,Bike,4
+966,Rajasthan,Udaipur,2022,September,Spring,Family,Foreign,34460,4.5,9726,Resort,Bus,2
+967,Gujarat,Vadodara,2024,August,Monsoon,Wellness,Domestic,43201,3.7,53133,Houseboat,Train,1
+968,Madhya Pradesh,Pachmarhi,2025,October,Summer,Wellness,Domestic,34484,3.3,43977,Houseboat,Bike,5
+969,Gujarat,Gir,2024,February,Autumn,Wellness,Foreign,10481,3.1,15422,Hotel,Flight,4
+970,Punjab,Chandigarh,2023,March,Winter,Business,Domestic,27578,9.3,9616,Houseboat,Car,5
+971,Himachal Pradesh,Shimla,2022,June,Autumn,Adventure,Foreign,21097,2.0,60418,Guesthouse,Flight,4
+972,Sikkim,Namchi,2025,May,Summer,Business,Domestic,14828,2.8,22745,Hostel,Car,4
+973,Karnataka,Bengaluru,2025,November,Winter,Wellness,Domestic,9261,9.0,48628,Houseboat,Flight,4
+974,Assam,Guwahati,2023,November,Summer,Family,Domestic,13647,6.1,63593,Houseboat,Bike,5
+975,Gujarat,Gir,2023,February,Summer,Backpacking,Domestic,4694,6.1,18171,Hostel,Car,5
+976,Himachal Pradesh,Shimla,2024,January,Summer,Heritage,Domestic,14731,8.4,39497,Guesthouse,Bike,3
+977,Gujarat,Ahmedabad,2024,February,Monsoon,Pilgrimage,Domestic,33981,9.4,67042,Guesthouse,Bike,3
+978,Bihar,Patna,2023,October,Winter,Backpacking,Domestic,2165,4.0,35694,Hostel,Bus,2
+979,Kerala,Alleppey,2021,December,Spring,Business,Domestic,4828,8.3,6134,Homestay,Flight,3
+980,Jammu and Kashmir,Jammu,2022,September,Winter,Wellness,Domestic,2785,1.9,66589,Hostel,Train,5
+981,Gujarat,Somnath,2025,April,Monsoon,Heritage,Domestic,12906,5.8,51227,Hotel,Flight,1
+982,Telangana,Hyderabad,2025,December,Autumn,Wildlife,Domestic,36064,2.2,58903,Resort,Car,1
+983,Gujarat,Dwarka,2025,July,Monsoon,Business,Domestic,38625,1.1,55641,Hotel,Train,5
+984,Kerala,Munnar,2022,February,Winter,Business,Domestic,18570,1.4,47331,Hotel,Train,5
+985,West Bengal,Darjeeling,2024,August,Autumn,Wellness,Domestic,5055,3.3,72756,Houseboat,Flight,2
+986,Gujarat,Rann of Kutch,2025,June,Monsoon,Heritage,Domestic,42887,3.2,36566,Camp,Bike,3
+987,Odisha,Puri,2022,July,Monsoon,Leisure,Domestic,5191,2.8,19474,Houseboat,Bike,5
+988,West Bengal,Siliguri,2021,February,Summer,Backpacking,Domestic,15457,7.3,60975,Homestay,Train,1
+989,Telangana,Hyderabad,2021,October,Monsoon,Honeymoon,Foreign,5587,1.5,51823,Hostel,Bus,4
+990,Madhya Pradesh,Pachmarhi,2025,April,Winter,Heritage,Domestic,28301,5.8,41496,Resort,Car,1
+991,Gujarat,Ahmedabad,2021,May,Monsoon,Wellness,Domestic,1842,4.1,58395,Camp,Bike,4
+992,Himachal Pradesh,Spiti,2024,September,Monsoon,Wildlife,Domestic,37294,7.9,35591,Hostel,Car,2
+993,Andhra Pradesh,Lepakshi,2025,January,Summer,Business,Domestic,16429,7.9,40274,Homestay,Bus,3
+994,Madhya Pradesh,Khajuraho,2023,June,Monsoon,Wellness,Domestic,39895,1.1,41725,Homestay,Bus,5
+995,Uttar Pradesh,Varanasi,2024,January,Autumn,Heritage,Domestic,23559,5.3,74455,Hostel,Flight,2
+996,Kerala,Thekkady,2024,October,Monsoon,Adventure,Foreign,28914,2.6,37694,Guesthouse,Bus,3
+997,Uttarakhand,Haridwar,2025,October,Summer,Pilgrimage,Domestic,42949,1.3,67916,Houseboat,Flight,4
+998,Punjab,Amritsar,2021,January,Summer,Backpacking,Foreign,1106,7.1,47812,Houseboat,Bus,5
+999,Bihar,Bodh Gaya,2023,February,Winter,Family,Domestic,5125,3.1,44201,Guesthouse,Car,5
+1000,Jammu and Kashmir,Srinagar,2024,March,Monsoon,Wildlife,Domestic,23661,4.0,54995,Hotel,Bus,3
