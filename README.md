@@ -148,7 +148,7 @@ Through these projects, I gained hands-on experience in:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/pradyumanrana85-max/
+   git clone https://github.com/pradyumanrana85-max/Data-Science-Project
    ```
 
 2. Install Python dependencies:
